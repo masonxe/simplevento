@@ -14,20 +14,20 @@
   limitations under the License.
   -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name">Google I/O 2012</string>
+    <string name="app_name">DevFest Lima 2012</string>
 
-    <string name="description_search">Search</string>
+    <string name="description_search">Buscar</string>
     <string name="description_map">Map</string>
-    <string name="description_refresh">Refresh</string>
-    <string name="description_share">Share</string>
-    <string name="description_add_schedule">Add to agenda</string>
-    <string name="description_remove_schedule">Remove from agenda</string>
-    <string name="description_social_stream">View Google+ stream</string>
-    <string name="description_compose">New post</string>
-    <string name="description_add_account">Add account</string>
-    <string name="description_about">About</string>
-    <string name="description_sign_out">Sign out</string>
-    <string name="description_captions">Captions</string>
+    <string name="description_refresh">Refrescar</string>
+    <string name="description_share">Compartir</string>
+    <string name="description_add_schedule">Agregar a agenda</string>
+    <string name="description_remove_schedule">Remover de agenda</string>
+    <string name="description_social_stream">Google+ stream</string>
+    <string name="description_compose">Nueva entrada</string>
+    <string name="description_add_account">Agregar cuenta</string>
+    <string name="description_about">Acerca</string>
+    <string name="description_sign_out">Ingresar</string>
+    <string name="description_captions">Leyendas</string>
 
     <string name="title_sessions">Sessions</string>
     <string name="title_session_detail">Session Information</string>
@@ -36,214 +36,212 @@
     <string name="title_vendor_detail">Company Information</string>
     <string name="title_map">Map</string>
     <string name="title_tagstream">Google+ Posts</string>
-    <string name="title_about">About</string>
+    <string name="title_about">Acerca</string>
 
-    <string name="title_share">Share using</string>
+    <string name="title_share">Comparte con</string>
 
-    <string name="title_search">Search</string>
-    <string name="title_search_query">Search for \"&lt;b&gt;<xliff:g id="query">%1$s</xliff:g>&lt;b&gt;\"</string>
+    <string name="title_search">Buscar</string>
+    <string name="title_search_query">Buscar por \"&lt;b&gt;<xliff:g id="query">%1$s</xliff:g>&lt;b&gt;\"</string>
 
-    <string name="title_my_schedule">My Agenda</string>
-    <string name="title_explore">Explore</string>
+    <string name="title_my_schedule">Mi Agenda</string>
+    <string name="title_explore">Explorar</string>
     <string name="title_stream">Stream</string>
 
     <plurals name="title_selected_sessions">
-        <item quantity="one">1 session selected</item>
-        <item quantity="other"><xliff:g id="num_sessions">%1$d</xliff:g> sessions selected</item>
+        <item quantity="one">1 sesión seleccionada</item>
+        <item quantity="other"><xliff:g id="num_sessions">%1$d</xliff:g> sesión seleccionada</item>
     </plurals>
 
     <string name="session_subtitle"><xliff:g id="time">%1$s</xliff:g> in <xliff:g id="room">%2$s</xliff:g></string>
 
-    <string name="all_tracks">All tracks</string>
-    <string name="all_tracks_sessions">All sessions</string>
-    <string name="all_tracks_vendors">All companies</string>
-    <string name="all_tracks_subtitle_sessions">All sessions at Google I/O 2012.</string>
-    <string name="all_tracks_subtitle_vendors">All developer sandbox companies at Google I/O 2012.</string>
+    <string name="all_tracks">Todos los tracks</string>
+    <string name="all_tracks_sessions">Todas las sesiones</string>
+    <string name="all_tracks_vendors">Todas las companias</string>
+    <string name="all_tracks_subtitle_sessions">Todas las sesiones de DevFest Lima 2012.</string>
+    <string name="all_tracks_subtitle_vendors">Todas las empresas auspiciadoras 2012.</string>
 
-    <string name="empty_sessions">No sessions found.</string>
-    <string name="empty_session_detail">No session details found.</string>
-    <string name="empty_vendors">No developer sandbox companies found.</string>
-    <string name="empty_social_stream">No posts found.</string>
-    <string name="empty_waiting_for_sync">Waiting for sync&#8230;</string>
-    <string name="empty_captions">No captions found for this session.</string>
+    <string name="empty_sessions">No hay sesiones.</string>
+    <string name="empty_session_detail">No hay detalle de sesiones.</string>
+    <string name="empty_vendors">No se encontraron companias de desarrollo.</string>
+    <string name="empty_social_stream">No se encontraron entradas.</string>
+    <string name="empty_waiting_for_sync">Esperando por sincronización</string>
+    <string name="empty_captions">No hay subtítulos para este grupo de sesiones.</string>
 
-    <string name="unknown_room">(Unspecified Room)</string>
-    <string name="codelab_room">Code Labs (Level 2)</string>
-    <string name="keynote_room">Level 3</string>
+    <string name="unknown_room">(Salon no especificado)</string>
+    <string name="codelab_room">Code Labs (Nivel 2)</string>
+    <string name="keynote_room">Nivel 3</string>
 
     <string name="session_links">Links</string>
-    <string name="session_requirements">Requirements</string>
+    <string name="session_requirements">Requisitos</string>
     <string name="session_speakers">Speakers</string>
 
     <string name="session_link_main">Web link</string>
     <string name="session_link_youtube">YouTube video</string>
     <string name="session_link_pdf">Slides (PDF)</string>
-    <string name="session_link_notes">Official notes</string>
-    <string name="session_link_livestream">Watch on I/O Live</string>
+    <string name="session_link_notes">Notas oficiales.</string>
+    <string name="session_link_livestream">Mirar en I/O Live</string>
 
     <string name="session_livestream_title">I/O Live</string>
     <string name="session_livestream_track_title">%s Track</string>
     <string name="session_livestream_info">Info</string>
-    <string name="session_livestream_captions">Captions</string>
-    <string name="session_livestream_error">Sorry, there was an error loading the live stream, please try again later</string>
-    <string name="session_livestream_keynote_title">Google I/O - %s</string>
-    <string name="session_livestream_keynote_desc">Google I/O\'s much-anticipated daily kickoff events will make you among the first developers to see what we\'ve been working on here at Google. Grab some popcorn, kick back and enjoy the show directly from your Android powered device.</string>
+    <string name="session_livestream_captions">Leyendas</string>
+    <string name="session_livestream_error">Lo sentimos, se produjo un error al cargar la transmisión en vivo, por favor, inténtelo de nuevo más tarde</string>
+    <string name="session_livestream_keynote_title">DevFest Lima  - %s</string>
+    <string name="session_livestream_keynote_desc">DevFest Lima el evento tan esperado organizado por los primeros desarrolladores Google de Lima-Perú para compartir lo que ha estado trabajando Google. Coge un poco de palomitas de maíz, relajate y disfruta del espectáculo directamente desde tu dispositivo Android..</string>
 
     <string name="codelab_title_template">Code Lab: <xliff:g id="title">%1$s</xliff:g></string>
 
-    <string name="vendor_exhibitors_prefix">Exhibitors: </string>
+    <string name="vendor_exhibitors_prefix">Expositores: </string>
 
-    <string name="search_label">Google I/O Sessions</string>
-    <string name="search_hint">Search sessions</string>
+    <string name="search_label">DevFest Lima Sesiones</string>
+    <string name="search_hint">Buscar Sesiones</string>
 
-    <string name="share_template">Checking out \'<xliff:g id="title">%1$s</xliff:g>\' at <xliff:g id="hashtags">%2$s</xliff:g> <xliff:g id="url">%3$s</xliff:g></string>
+    <string name="share_template">Registro de Salida \'<xliff:g id="title">%1$s</xliff:g>\' at <xliff:g id="hashtags">%2$s</xliff:g> <xliff:g id="url">%3$s</xliff:g></string>
     <string name="share_livestream_template">Watching I/O Live: \'<xliff:g id="title">%1$s</xliff:g>\' at <xliff:g id="hashtags">%2$s</xliff:g> <xliff:g id="url">%3$s</xliff:g></string>
 
     <!-- Announcements -->
-    <string name="whats_on_countdown_title_0"><xliff:g id="remaining_time">%1$s</xliff:g>\nuntil Google I/O</string>
+    <string name="whats_on_countdown_title_0"><xliff:g id="remaining_time">%1$s</xliff:g>DevFest Lima </string>
     <plurals name="whats_on_countdown_title">
-        <item quantity="one"><xliff:g id="number_of_days">%1$s</xliff:g> day, <xliff:g id="remaining_time">%2$s</xliff:g>\nuntil Google I/O</item>
-        <item quantity="other"><xliff:g id="number_of_days">%1$s</xliff:g> days, <xliff:g id="remaining_time">%2$s</xliff:g>\nuntil Google I/O</item>
+        <item quantity="one"><xliff:g id="number_of_days">%1$s</xliff:g> día, <xliff:g id="remaining_time">%2$s</xliff:g>\nuntil DevFest Lima </item>
+        <item quantity="other"><xliff:g id="number_of_days">%1$s</xliff:g> días, <xliff:g id="remaining_time">%2$s</xliff:g>\nuntil DevFest Lima </item>
     </plurals>
-    <string name="whats_on_thank_you_title">See you next year!</string>
-    <string name="news_will_appear_here">News will appear here</string>
-    <string name="welcome_to_google_i_o">Welcome to Google I/O!</string>
+    <string name="whats_on_thank_you_title">Nos vemos en el proximo evento!</string>
+    <string name="news_will_appear_here">Noticias aparecerán aquí</string>
+    <string name="welcome_to_google_i_o">Bienvenidos DevFest Lima 2012!</string>
 
-    <string name="permission_write">Modify Google I/O schedule data</string>
+    <string name="permission_write">Modificar horarios DevFest Lima</string>
 
     <plurals name="toast_added_to_schedule">
-        <item quantity="one">Session added to your agenda</item>
-        <item quantity="other"><xliff:g id="number_of_sessions">%1$s</xliff:g> sessions added to your agenda</item>
+        <item quantity="one">Sesión agregada a tu agenda</item>
+        <item quantity="other"><xliff:g id="number_of_sessions">%1$s</xliff:g> sesión agregada a tu agenda</item>
     </plurals>
     <plurals name="toast_removed_from_schedule">
-        <item quantity="one">Session removed from your agenda</item>
-        <item quantity="other"><xliff:g id="number_of_sessions">%1$s</xliff:g> sessions removed from your agenda</item>
+        <item quantity="one">Sesión removida de tu agenda</item>
+        <item quantity="other"><xliff:g id="number_of_sessions">%1$s</xliff:g> sesiones removidas de tu agenda</item>
     </plurals>
 
     <!-- Schedule -->
-    <string name="schedule_empty_slot_title_template">Browse<xliff:g id="block_type">%1$s</xliff:g>&#8230;</string>
-    <string name="schedule_empty_slot_subtitle">Empty slot</string>
-    <string name="schedule_conflict_title"><xliff:g id="num_sessions">%1$s</xliff:g> chosen sessions</string>
-    <string name="schedule_conflict_subtitle">Conflict in slot</string>
-    <string name="schedule_block_title_sessions">Sessions</string>
+    <string name="schedule_empty_slot_title_template">Navegar<xliff:g id="block_type">%1$s</xliff:g>&#8230;</string>
+    <string name="schedule_empty_slot_subtitle">Slot vacío</string>
+    <string name="schedule_conflict_title"><xliff:g id="num_sessions">%1$s</xliff:g> sesiones elegidas</string>
+    <string name="schedule_conflict_subtitle">Conflicto en slot</string>
+    <string name="schedule_block_title_sessions">Sesiones</string>
     <string name="schedule_block_title_code_labs">Code Labs</string>
     <string name="schedule_block_title_keynote">Keynote</string>
 
     <!-- EULA, login, and about -->
     <string name="description_choose_account"><![CDATA[
-        Welcome to the Google I/O 2012 app, your official companion to the Google I/O conference
-        taking place in San Francisco from June 27th to June 29th, 2012.<br>
+        Bienvenidos a DevFest Lima 2012, evento organizado por la comunidad GDG LIma 
+        programado con sede en la ciudad de Lima - Peru, el 27 de octubre 2012. 
         <br>
-        <font color="#4683ec"><b>Sign in with the Google account you registered with to
-        get started</b></font>.
+        <font color="#4683ec">Para poder usar esta app ingresa con una cuenta Google que tengas registrada y empieza a disfrutar tanto como nosotros desde ya del evento.
+        </b></font>.
     ]]></string>
-    <string name="title_accounts_list">Select a Google account</string>
-    <string name="empty_accounts">No Google accounts are available. Add an account to continue.</string>
-    <string name="no_connection_cant_login">Can\'t sign in. Check your network connection.</string>
+    <string name="title_accounts_list">Selecciona una cuenta :</string>
+    <string name="empty_accounts">No hay cuentas Google disponibles. Agrega una cuenta para continuar.</string>
+    <string name="no_connection_cant_login">No has podido ingresar. Revisa tu conexión a internet.</string>
     <string name="taking_a_while">This is taking a while&#8230;</string>
-    <string name="eula_title">Google I/O 2012 Android App End User License Agreement</string>
-    <string name="about_eula">End User License Agreement</string>
-    <string name="about_licenses">Open Source Licenses</string>
+    <string name="eula_title">DevFest Lima 2012 - Android App Licencia de usuario final</string>
+    <string name="about_eula">Licencia de usuario final</string>
+    <string name="about_licenses">Licencia Open Source</string>
     <string name="about_body"><![CDATA[
-        <b>Google I/O 2012</b><br>
+        <b>DevFest Lima 2012</b><br>
         Version %s<br><br>
-        <a href="http://m.google.com/utos">Terms of Service</a><br><br>
-        <a href="http://www.google.com/policies/privacy/">Privacy Policy</a>
+        <a href="http://m.google.com/utos">Terminos del Servicio</a><br><br>
+        <a href="http://www.google.com/policies/privacy/">Politica de Privacidad</a>
     ]]></string>
 
     <!--suppress AndroidLintTypographyOther -->
     <string name="eula_text"><![CDATA[
-        By downloading, installing or using this application or any portion thereof
-        (\"Application\"), you agree to these terms and conditions.<br>
+        Al descargar, instalar y utilizar esta aplicación o cualquier parte de éstos,
+        (\"Application\"), usted acepta estos términos y condiciones.<br>
         <br>
-        Your use of this Application is governed by: (a) the Google Terms of Service
-        (<a href="http://m.google.com/utos">m.google.com/utos</a>); (b) Google\'s Privacy Policy
+        El uso de esta aplicación se rige por: (a) Google
+        (<a href="http://m.google.com/utos">m.google.com/utos</a>); (b) Google\'s Politicas de privacidad
         (<a href="http://www.google.com/policies/privacy">http://www.google.com/policies/privacy</a>);
-        and (c) any applicable Google Service-specific terms of service or privacy policies.
-        Google\'s terms of service and privacy policies may be updated from time to time and without
-        notice.<br>
+        and (c) los servicios aplicables de Google, términos de servicio o políticas de privacidad..<br>
         <br>
-        This Application collects certain information as you use it, including via Google Analytics.
-        Google\'s Privacy Policy explains how Google treats your information and protects your
-        privacy when you use the Application.  You agree to the use of your data in accordance
-        with Google\'s privacy policy.
+        Esta aplicación recoge cierta información como usted lo utiliza, incluso a través de Google Analytics.
+        la política de privacidad de Google explica cómo Google trata su información y protege su
+        privacidad cuando utiliza la aplicación. Usted está de acuerdo con el uso de sus datos de acuerdo
+        con la política de privacidad de Google.
     ]]></string>
-    <string name="accept">Accept</string>
-    <string name="decline">Decline</string>
+    <string name="accept">De acuerdo</string>
+    <string name="decline">No acepto</string>
 
     <!-- Session notification -->
     <plurals name="session_notification_ticker">
-        <item quantity="one">1 session is about to start.</item>
-        <item quantity="other">%d sessions are about to start.</item>
+        <item quantity="one">1 sesión está a punto de comenzar.</item>
+        <item quantity="other">%d sesiones están a punto de comenzar.</item>
     </plurals>
 
-    <string name="session_notification_text_1">starting in <xliff:g id="remaining_time">%1$d</xliff:g> min.</string>
+    <string name="session_notification_text_1">iniciando en <xliff:g id="remaining_time">%1$d</xliff:g> min.</string>
     <plurals name="session_notification_text">
-        <item quantity="one">and 1 other starting in <xliff:g id="remaining_time">%1$d</xliff:g> min.</item>
-        <item quantity="other">and <xliff:g id="num_sessions">%2$d</xliff:g> others starting in <xliff:g id="remaining_time">%1$d</xliff:g> min.</item>
+        <item quantity="one">y otro 1 a partir de <xliff:g id="remaining_time">%1$d</xliff:g> min.</item>
+        <item quantity="other">y <xliff:g id="num_sessions">%2$d</xliff:g> otros iniciando en <xliff:g id="remaining_time">%1$d</xliff:g> min.</item>
     </plurals>
     <plurals name="session_notification_title">
-        <item quantity="one">1 session is starting in <xliff:g id="remaining_time">%1$d</xliff:g> min.</item>
-        <item quantity="other"><xliff:g id="num_sessions">%2$d</xliff:g> sessions are starting in <xliff:g id="remaining_time">%1$d</xliff:g> min.</item>
+        <item quantity="one">1 sesion esta iniciando en <xliff:g id="remaining_time">%1$d</xliff:g> min.</item>
+        <item quantity="other"><xliff:g id="num_sessions">%2$d</xliff:g> sesiones iniciando en <xliff:g id="remaining_time">%1$d</xliff:g> min.</item>
     </plurals>
-    <string name="snooze_x_min">Snooze <xliff:g id="remaining_time">%1$d</xliff:g> min.</string>
+    <string name="snooze_x_min">Descanso <xliff:g id="remaining_time">%1$d</xliff:g> min.</string>
 
-    <string name="session_calendar_suffix">- added by Google I/O 2012 Android app</string>
-    <string name="toast_deleting_sessions_from_calendar">Removing your Google I/O 2012 sessions from Google Calendar&#8230;</string>
+    <string name="session_calendar_suffix">- added by DevFest Lima  2012 Android app</string>
+    <string name="toast_deleting_sessions_from_calendar">Removiendo tus sesiones de DevFest Lima  2012 de Google Calendar&#8230;</string>
 
     <!-- Contextual help text -->
     <string name="help_add_to_schedule"><![CDATA[
-        To add this session to your schedule, touch the &nbsp;<img src="add_to_schedule" alt="Add to agenda">&nbsp; icon.
+        Para agregar esta sesión a su horario, clicke en &nbsp;<img src="add_to_schedule" alt="Agregar a agenda">&nbsp; icon.
     ]]></string>
     
     <!-- Alternate for accessibility (alt does not get used when HTML is put into dialog) -->
     <string name="help_add_to_schedule_alt"><![CDATA[
-        To add this session to your schedule, touch the add to agenda icon.<br>
+         Para agregar esta sesión a su horario, click en el icono agregar agenda.<br>
     ]]></string>
     
     <!-- Others -->
     <string name="ok">OK</string>
-    <string name="close">Close</string>
-    <string name="loading">Loading&#8230;</string>
-    <string name="retry">Retry</string>
-    <string name="stream_error">Couldn\'t load the Google+ stream.</string>
-    <string name="stream_originally_shared"><xliff:g id="name">%s</xliff:g> originally shared this post</string>
-    <string name="empty_widget_text">No more upcoming sessions.\nSee you next year!</string>
-    <string name="empty_widget_text_signed_out">Touch the Google I/O 2012 logo above to sign in and begin using the app.</string>
+    <string name="close">Cerrar</string>
+    <string name="loading">Cargando&#8230;</string>
+    <string name="retry">Reintentar</string>
+    <string name="stream_error">No se pudo cargar Google+ stream.</string>
+    <string name="stream_originally_shared"><xliff:g id="name">%s</xliff:g> ha compartido esta entrada</string>
+    <string name="empty_widget_text">Nohay mas sesiones, hasta el proximo evento</string>
+    <string name="empty_widget_text_signed_out">Pincha el logo DevFest Lima  que aparece arriba para ingresar y comenzar a utilizar la aplicación.</string>
 
-    <string name="now_playing_badge"><![CDATA[<font color="#4683ec"><small><b>NOW</b></small></font>]]></string>
+    <string name="now_playing_badge"><![CDATA[<font color="#4683ec"><small><b>AHORA</b></small></font>]]></string>
     <string name="live_available_badge"><![CDATA[<font color="#999999"><small><b>LIVE</b></small></font>]]></string>
     <string name="live_now_badge"><![CDATA[<font color="#ff4444"><small><b>LIVE</b></small></font>]]></string>
 
     <!-- Google TV  -->
-    <string name="missed_io_title">No Google I/O sessions are currently playing.</string>
-    <string name="missed_io_subtitle">Check out https://developers.google.com/io for the latest on Google I/O.</string>
-    <string name="error_tv_no_url">No I/O Live stream was available for the selected session.</string>
-    <string name="next_live_stream_session_template">Next Live Session: <xliff:g id="title">%1$s</xliff:g></string>
-    <string name="starts_in_template_0_days">Starts in <xliff:g id="remaining_time">%1$s</xliff:g>.</string>
+    <string name="missed_io_title">No hay sesiones DevFest Lima presentandose.</string>
+    <string name="missed_io_subtitle">Checka https://gdglia.pe para ver info sobre DevFest Lima .</string>
+    <string name="error_tv_no_url">No I/O Live stream disponible para esta sesión.</string>
+    <string name="next_live_stream_session_template">Siguiente Live Session: <xliff:g id="title">%1$s</xliff:g></string>
+    <string name="starts_in_template_0_days">Iniciando en <xliff:g id="remaining_time">%1$s</xliff:g>.</string>
     <plurals name="starts_in_template">
-        <item quantity="one">Starts in <xliff:g id="number_of_days">%1$s</xliff:g> day, <xliff:g id="remaining_time">%2$s</xliff:g>.</item>
-        <item quantity="other">Starts in <xliff:g id="number_of_days">%1$s</xliff:g> days, <xliff:g id="remaining_time">%2$s</xliff:g>.</item>
+        <item quantity="one">Iniciando en <xliff:g id="number_of_days">%1$s</xliff:g> dia, <xliff:g id="remaining_time">%2$s</xliff:g>.</item>
+        <item quantity="other">Iniciando en <xliff:g id="number_of_days">%1$s</xliff:g> dias, <xliff:g id="remaining_time">%2$s</xliff:g>.</item>
     </plurals>
 
     <!-- Strings only used for accessibility -->
-    <string name="speaker_googleplus_profile">Google+ profile: <xliff:g id="speakername">%1$s</xliff:g></string>
-    <string name="close_detail_pane">Close detail pane</string>
-    <string name="more_sessions">More sessions</string>
-    <string name="plus_one_description">Touch to add your plus one to the existing <xliff:g id="name">%1$s</xliff:g></string>
-    <string name="plus_one_description_remove">Touch to remove your plus one from the existing <xliff:g id="name">%1$s</xliff:g></string>
-    <string name="plus_one_description_standard">Touch to plus one.</string>
-    <string name="indicator_in_schedule">Session in your schedule</string>
-    <string name="announcement_previous">Previous announcement</string>
-    <string name="announcement_next">Next announcement</string>
+    <string name="speaker_googleplus_profile">Perfil Google+: <xliff:g id="speakername">%1$s</xliff:g></string>
+    <string name="close_detail_pane">Cerrar Panel de detalle</string>
+    <string name="more_sessions">Mas sesiones</string>
+    <string name="plus_one_description">Toque para añadir +1<xliff:g id="name">%1$s</xliff:g></string>
+    <string name="plus_one_description_remove">Toque para remover +1 <xliff:g id="name">%1$s</xliff:g></string>
+    <string name="plus_one_description_standard">Toque para +1 </string>
+    <string name="indicator_in_schedule">Sesion en su horario</string>
+    <string name="announcement_previous">Anuncios previos</string>
+    <string name="announcement_next">Siguiente anuncio</string>
 
     <!-- Beam easter egg -->
-    <string name="description_view_beam">Show Android Beam easter egg</string>
-    <string name="description_beam_help">Help</string>
-    <string name="just_beamed">You just used Android Beam!</string>
-    <string name="view_beam_session">Learn more</string>
-    <string name="title_beam">Beam Easter Egg Unlocked!</string>
+    <string name="description_view_beam">Mostrar Android Beam easter egg</string>
+    <string name="description_beam_help">Ayuda</string>
+    <string name="just_beamed">Acaba de usar Android Beam!</string>
+    <string name="view_beam_session">Mas información</string>
+    <string name="title_beam">Beam Easter Egg bloqueado!</string>
     <string name="beam_unlocked_default">Awesome, you just used Android Beam!\n\nTry using Android Beam when viewing session details, to share sessions with others at the conference.\n\nTo learn more about using Android Beam in your own application, touch <i>Learn more</i> below or visit the NFC and Android Beam session on Thursday at 4pm in Room 9.\n\nA <i>Show Android Beam easter egg</i> item has also been added to the action bar at the top of the app\'s home screen. <b>Show this screen to us at end of the session to receive an Android Beam pin collectible!</b></string>
     <string name="beam_unlocked_session">Awesome, you just used Android Beam to share a session!\n\nTo learn more about using Android Beam in your own application, touch <i>Learn more</i> below or visit the NFC and Android Beam session on Thursday at 4pm in Room 9.\n\nA <i>Show Android Beam easter egg</i> item has also been added to the action bar at the top of the app\'s home screen. <b>Show this screen to us at end of the session to receive an Android Beam pin collectible!</b></string>
-    <string name="beam_unlocked_help">This shows you have used Android Beam with the Google I/O 2012 app.\n\nTo learn more about using Android Beam in your own application, touch <i>Learn more</i> below or visit the NFC and Android Beam session on Thursday at 4pm in Room 9.\n\nA <i>Show Android Beam easter egg</i> item has also been added to the action bar at the top of the app\'s home screen. <b>Show this screen to us at end of the session to receive an Android Beam pin collectible!</b></string>
+    <string name="beam_unlocked_help">This shows you have used Android Beam with the DevFest Lima  2012 app.\n\nTo learn more about using Android Beam in your own application, touch <i>Learn more</i> below or visit the NFC and Android Beam session on Thursday at 4pm in Room 9.\n\nA <i>Show Android Beam easter egg</i> item has also been added to the action bar at the top of the app\'s home screen. <b>Show this screen to us at end of the session to receive an Android Beam pin collectible!</b></string>
 </resources>

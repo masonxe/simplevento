@@ -74,7 +74,7 @@ public class UIUtils {
     public static final long CONFERENCE_END_MILLIS = ParserUtils.parseTime(
             "2012-06-29T18:00:00.000-07:00");
 
-    public static final String CONFERENCE_HASHTAG = "#io12";
+    public static final String CONFERENCE_HASHTAG = "#devfest";
 
     private static final int SECOND_MILLIS = 1000;
     private static final int MINUTE_MILLIS = 60 * SECOND_MILLIS;
