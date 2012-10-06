@@ -1,4 +1,6 @@
 gdglima-devfest
 ===============
 
-Aplicacion movil elaborada para mantenerte al tanto de toda la informacion con respecto a las sesiones del evento y mas ...
+Aplicacion Android que sirve para mostrar todas las sesiones del evento DevFestLima 2012  ... y otras cosas mas ..
+
+![](http://github.com/ameison/gdglima-devfest/image.app.jpg)
