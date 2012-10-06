@@ -52,8 +52,7 @@ public class SimpleSectionedListAdapter extends BaseAdapter {
         }
     }
 
-    public SimpleSectionedListAdapter(Context context, int sectionResourceId,
-            ListAdapter baseAdapter) {
+    public SimpleSectionedListAdapter(Context context, int sectionResourceId, ListAdapter baseAdapter) {
         mLayoutInflater = (LayoutInflater) context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
         mSectionResourceId = sectionResourceId;
         mBaseAdapter = baseAdapter;

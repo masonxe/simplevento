@@ -87,8 +87,7 @@ public class MyScheduleFragment extends SherlockListFragment implements
         // we can show list headers separating out the different days of the conference
         // (Wednesday/Thursday/Friday).
         mScheduleAdapter = new MyScheduleAdapter(getActivity());
-        mAdapter = new SimpleSectionedListAdapter(getActivity(),
-                R.layout.list_item_schedule_header, mScheduleAdapter);
+        mAdapter = new SimpleSectionedListAdapter(getActivity(), R.layout.list_item_schedule_header, mScheduleAdapter);
         setListAdapter(mAdapter);
 
         if (savedInstanceState == null) {
@@ -99,10 +98,8 @@ public class MyScheduleFragment extends SherlockListFragment implements
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
             Bundle savedInstanceState) {
-        ViewGroup root = (ViewGroup) inflater.inflate(
-                R.layout.fragment_list_with_empty_container, container, false);
-        inflater.inflate(R.layout.empty_waiting_for_sync,
-                (ViewGroup) root.findViewById(android.R.id.empty), true);
+        ViewGroup root = (ViewGroup) inflater.inflate(R.layout.fragment_list_with_empty_container, container, false);
+        inflater.inflate(R.layout.empty_waiting_for_sync,(ViewGroup) root.findViewById(android.R.id.empty), true);
         root.setBackgroundColor(Color.WHITE);
         ListView listView = (ListView) root.findViewById(android.R.id.list);
         listView.setItemsCanFocus(true);
@@ -426,11 +423,15 @@ public class MyScheduleFragment extends SherlockListFragment implements
                         }
                     });
                 }
+                
+                //titleView.setText("Meison");
 
                 subtitleView.setTextColor(res.getColorStateList(R.color.body_text_2));
                 primaryTouchTargetView.setEnabled(true);
 
             } else if (ParserUtils.BLOCK_TYPE_KEYNOTE.equals(type)) {
+            	
+            	
                 final String starredSessionId = cursor.getString(BlocksQuery.STARRED_SESSION_ID);
                 final String starredSessionTitle =
                         cursor.getString(BlocksQuery.STARRED_SESSION_TITLE);
@@ -463,6 +464,8 @@ public class MyScheduleFragment extends SherlockListFragment implements
                         startActivity(livestreamIntent);
                     }
                 });
+                
+               // titleView.setText("Otro");
 
             } else {
                 titleView.setTextColor(res.getColorStateList(R.color.body_text_disabled));
@@ -472,6 +475,8 @@ public class MyScheduleFragment extends SherlockListFragment implements
                 extraButton.setVisibility(View.GONE);
                 primaryTouchTargetView.setEnabled(false);
                 primaryTouchTargetView.setOnClickListener(null);
+                
+                //titleView.setText("mas");
             }
 
             timeView.setText(DateUtils.formatDateTime(context, blockStart,

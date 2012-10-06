@@ -29,7 +29,7 @@
     <string name="description_sign_out">Ingresar</string>
     <string name="description_captions">Leyendas</string>
 
-    <string name="title_sessions">Sessions</string>
+    <string name="title_sessions">Sesiones</string>
     <string name="title_session_detail">Session Information</string>
     <string name="title_tracks">Tracks</string>
     <string name="title_vendors">Sandbox</string>
@@ -43,8 +43,8 @@
     <string name="title_search">Buscar</string>
     <string name="title_search_query">Buscar por \"&lt;b&gt;<xliff:g id="query">%1$s</xliff:g>&lt;b&gt;\"</string>
 
-    <string name="title_my_schedule">Mi Agenda</string>
-    <string name="title_explore">Explorar</string>
+    <string name="title_my_schedule">Agenda</string>
+    <string name="title_explore">Sesiones</string>
     <string name="title_stream">Stream</string>
 
     <plurals name="title_selected_sessions">
@@ -105,7 +105,7 @@
         <item quantity="one"><xliff:g id="number_of_days">%1$s</xliff:g> día, <xliff:g id="remaining_time">%2$s</xliff:g>\nuntil DevFest Lima </item>
         <item quantity="other"><xliff:g id="number_of_days">%1$s</xliff:g> días, <xliff:g id="remaining_time">%2$s</xliff:g>\nuntil DevFest Lima </item>
     </plurals>
-    <string name="whats_on_thank_you_title">Nos vemos en el proximo evento!</string>
+    <string name="whats_on_thank_you_title">http://devfestlima.gdglima.pe</string>
     <string name="news_will_appear_here">Noticias aparecerán aquí</string>
     <string name="welcome_to_google_i_o">Bienvenidos DevFest Lima 2012!</string>
 
@@ -121,7 +121,7 @@
     </plurals>
 
     <!-- Schedule -->
-    <string name="schedule_empty_slot_title_template">Navegar<xliff:g id="block_type">%1$s</xliff:g>&#8230;</string>
+    <string name="schedule_empty_slot_title_template">Ver<xliff:g id="block_type">%1$s</xliff:g>&#8230;</string>
     <string name="schedule_empty_slot_subtitle">Slot vacío</string>
     <string name="schedule_conflict_title"><xliff:g id="num_sessions">%1$s</xliff:g> sesiones elegidas</string>
     <string name="schedule_conflict_subtitle">Conflicto en slot</string>
@@ -131,10 +131,10 @@
 
     <!-- EULA, login, and about -->
     <string name="description_choose_account"><![CDATA[
-        Bienvenidos a DevFest Lima 2012, evento organizado por la comunidad GDG LIma 
+        Bienvenido al DevFest Lima 2012, evento organizado por la comunidad GDG LIma  
         programado con sede en la ciudad de Lima - Peru, el 27 de octubre 2012. 
         <br>
-        <font color="#4683ec">Para poder usar esta app ingresa con una cuenta Google que tengas registrada y empieza a disfrutar tanto como nosotros desde ya del evento.
+        <font color="#4683ec">Para que puedas usar esta app debes ingresar con una cuenta Google que tengas registrada .. ¡solo eso! y empieza a disfrutar desde ya tanto como nosotros del contenido de las sesiones.
         </b></font>.
     ]]></string>
     <string name="title_accounts_list">Selecciona una cuenta :</string>

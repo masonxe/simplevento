@@ -125,11 +125,12 @@ public class SyncHelper {
         if ((flags & FLAG_SYNC_LOCAL) != 0) {
             final long startLocal = System.currentTimeMillis();
             final boolean localParse = localVersion < LOCAL_VERSION_CURRENT;
-            LOGD(TAG, "found localVersion=" + localVersion + " and LOCAL_VERSION_CURRENT="
+            LOGD(TAG, "Encontrado localVersion = " + localVersion + " and LOCAL_VERSION_CURRENT="
                     + LOCAL_VERSION_CURRENT);
             // Only run local sync if there's a newer version of data available
             // than what was last locally-sync'd.
-            if (localParse) {
+            if (true) {
+            	
                 // Load static local data
                 batch.addAll(new RoomsHandler(mContext).parse(
                         JSONHandler.loadResourceJson(mContext, R.raw.rooms)));

@@ -119,16 +119,9 @@ public class HomeActivity extends BaseActivity implements
 
             final ActionBar actionBar = getSupportActionBar();
             actionBar.setNavigationMode(ActionBar.NAVIGATION_MODE_TABS);
-            actionBar.addTab(actionBar.newTab()
-                    .setText(R.string.title_my_schedule)
-                    .setTabListener(this));
-            actionBar.addTab(actionBar.newTab()
-                    .setText(R.string.title_explore)
-                    .setTabListener(this));
-            actionBar.addTab(actionBar.newTab()
-                    .setText(R.string.title_stream)
-                    .setTabListener(this));
-
+            actionBar.addTab(actionBar.newTab().setText(R.string.title_my_schedule).setTabListener(this));
+            actionBar.addTab(actionBar.newTab().setText(R.string.title_explore).setTabListener(this));
+            //actionBar.addTab(actionBar.newTab().setText(R.string.title_stream).setTabListener(this));
             homeScreenLabel = getString(R.string.title_my_schedule);
 
         } else {
