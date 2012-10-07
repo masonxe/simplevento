@@ -280,7 +280,7 @@
    "speaker_id": "gooio2012/112//gooio2012/2351"
   },
   {
-   "bio": "As Director of User Experience for Android, Matías Duarte leads the team responsible for designing all aspects of the software and visual experience across the Android platform and core services. His overriding passion is to make computers delightful.",
+   "bio": "As Director of User Experience for Android, MatÃ­as Duarte leads the team responsible for designing all aspects of the software and visual experience across the Android platform and core services. His overriding passion is to make computers delightful.",
    "first_name": "Matias",
    "last_name": "Duarte",
    "user_id": "gooio2012/2352",
@@ -939,8 +939,8 @@
   {
    "bio": "Raul is the Technical Lead responsible for the YouTube API",
    "first_name": "Raul",
-   "last_name": "Furnică",
-   "display_name": "Raul Furnică",
+   "last_name": "FurnicÄƒ",
+   "display_name": "Raul FurnicÄƒ",
    "plusone_url": "https://plus.google.com/108113886705877339238",
    "thumbnail_url": "http://commondatastorage.googleapis.com/io2012/headshots/raul.jpg",
    "user_id": "gooio2012/2293",
@@ -956,7 +956,7 @@
    "speaker_id": "gooio2012/1415//gooio2012/2348"
   },
   {
-   "bio": "Takashi Matsuo is a developer advocate for Google App Engine and iGoogle. He joined Google in 2010 after three years as a Google App Engine Guru in Japan, and two years as a manager of Tokyo GTUG. He is an original author of a web framework named “Kay”, made specifically for Google App Engine.",
+   "bio": "Takashi Matsuo is a developer advocate for Google App Engine and iGoogle. He joined Google in 2010 after three years as a Google App Engine Guru in Japan, and two years as a manager of Tokyo GTUG. He is an original author of a web framework named â€œKayâ€�, made specifically for Google App Engine.",
    "first_name": "Takashi",
    "last_name": "Matsuo",
    "display_name": "Takashi Matsuo",
@@ -1168,7 +1168,7 @@
    "speaker_id": "gooio2012/207//gooio2012/2291"
   },
   {
-   "bio": "Mike is a philosophy student cleverly disguised as a developer advocate on the Chrome team in Munich, Germany. He's a Chromium committer, and has worked as a web developer at companies like Yahoo! and the Süddeutsche Zeitung.",
+   "bio": "Mike is a philosophy student cleverly disguised as a developer advocate on the Chrome team in Munich, Germany. He's a Chromium committer, and has worked as a web developer at companies like Yahoo! and the SÃ¼ddeutsche Zeitung.",
    "first_name": "Mike",
    "last_name": "West",
    "display_name": "Mike West",
@@ -1502,12 +1502,12 @@
    "speaker_id": "gooio2012/306//gooio2012/2156"
   },
   {
-   "bio": "Ken is a software engineer on the Cloud SQL team.  During his time at Google, he has also worked on Bigtable, Google App Engine, and Google's internal cluster management system.",
-   "first_name": "Ken",
-   "last_name": "Ashcraft",
-   "display_name": "Ken Ashcraft",
+   "bio": "Maison es Desarrollador Java, durante este ultimo año ha realizado proyectos de investigacion sobre Google App Engine.  Durante este ultimo año se ha desenvuelto a su vez como Consultor TI brindando soluciones de Software usando las tecnologias Google Android y Google App Engine",
+   "first_name": "Maison",
+   "last_name": "Chirinos",
+   "display_name": "Maison Chirinos",
    "plusone_url": "https://plus.google.com/111395306401981598462/about",
-   "thumbnail_url": "http://commondatastorage.googleapis.com/io2012/headshots/kash.jpg",
+   "thumbnail_url": "http://abcdroid.net/meison.jpg",
    "user_id": "gooio2012/2225",
    "speaker_id": "gooio2012/306//gooio2012/2225"
   },
@@ -1913,7 +1913,7 @@
    "speaker_id": "gooio2012/601//gooio2012/2104"
   },
   {
-   "bio": "Arvind is a Director of Engineering at Google and works on making Google and the Internet fast. He also helped establish and chairs the W3C’s Web Performance Working Group.",
+   "bio": "Arvind is a Director of Engineering at Google and works on making Google and the Internet fast. He also helped establish and chairs the W3Câ€™s Web Performance Working Group.",
    "first_name": "Arvind",
    "last_name": "Jain",
    "display_name": "Arvind Jain",
@@ -2243,7 +2243,7 @@
    "speaker_id": "gooio2012/905//gooio2012/2146"
   },
   {
-   "bio": "Mano is the lead Developer Advocate for Google’s Geo APIs. He has travelled the world helping developers use Google’s mapping technologies to communicate their message to the world.",
+   "bio": "Mano is the lead Developer Advocate for Googleâ€™s Geo APIs. He has travelled the world helping developers use Googleâ€™s mapping technologies to communicate their message to the world.",
    "first_name": "Mano",
    "last_name": "Marks",
    "display_name": "Mano Marks",
@@ -2263,10 +2263,10 @@
    "speaker_id": "gooio2012/906//gooio2012/2266"
   },
   {
-   "bio": "Andrés leads the Google Maps Developer Relations team.  He enjoys helping and working with developers who build valuable apps with Google's mapping APIs.",
-   "first_name": "Andrés",
-   "last_name": "Ferraté",
-   "display_name": "Andrés Ferraté",
+   "bio": "AndrÃ©s leads the Google Maps Developer Relations team.  He enjoys helping and working with developers who build valuable apps with Google's mapping APIs.",
+   "first_name": "AndrÃ©s",
+   "last_name": "FerratÃ©",
+   "display_name": "AndrÃ©s FerratÃ©",
    "plusone_url": "https://plus.google.com/u/0/113734550334076793987/about",
    "thumbnail_url": "http://commondatastorage.googleapis.com/io2012/headshots/andresf.jpg",
    "user_id": "gooio2012/2009",

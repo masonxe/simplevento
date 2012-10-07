@@ -52,7 +52,7 @@
         <item quantity="other"><xliff:g id="num_sessions">%1$d</xliff:g> sesión seleccionada</item>
     </plurals>
 
-    <string name="session_subtitle"><xliff:g id="time">%1$s</xliff:g> in <xliff:g id="room">%2$s</xliff:g></string>
+    <string name="session_subtitle"><xliff:g id="time">%1$s</xliff:g> en <xliff:g id="room">%2$s</xliff:g></string>
 
     <string name="all_tracks">Todos los tracks</string>
     <string name="all_tracks_sessions">Todas las sesiones</string>
@@ -67,9 +67,9 @@
     <string name="empty_waiting_for_sync">Esperando por sincronización</string>
     <string name="empty_captions">No hay subtítulos para este grupo de sesiones.</string>
 
-    <string name="unknown_room">(Salon no especificado)</string>
+    <string name="unknown_room">Auditorio</string>
     <string name="codelab_room">Code Labs (Nivel 2)</string>
-    <string name="keynote_room">Nivel 3</string>
+    <string name="keynote_room">Auditorio</string>
 
     <string name="session_links">Links</string>
     <string name="session_requirements">Requisitos</string>
@@ -191,12 +191,12 @@
 
     <!-- Contextual help text -->
     <string name="help_add_to_schedule"><![CDATA[
-        Para agregar esta sesión a su horario, clicke en &nbsp;<img src="add_to_schedule" alt="Agregar a agenda">&nbsp; icon.
+        Para agregar esta sesión a la agenda, click en &nbsp;<img src="add_to_schedule" alt="Agregar a agenda">&nbsp;.
     ]]></string>
     
     <!-- Alternate for accessibility (alt does not get used when HTML is put into dialog) -->
     <string name="help_add_to_schedule_alt"><![CDATA[
-         Para agregar esta sesión a su horario, click en el icono agregar agenda.<br>
+         Para agregar esta sesión a la agenda, click en el icono agregar agenda.<br>
     ]]></string>
     
     <!-- Others -->

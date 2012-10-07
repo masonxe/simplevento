@@ -12,13 +12,13 @@
         {
           "start": "09:15",
           "end": "09:45",
-          "title": "Introduction, conference GDG Lima and Google DevRel",
+          "title": "Conferencia GDG Lima y Google DevRel",
           "meta": "Auditorio"
         },
          {
           "start": "09:45",
           "end": "10:00",
-          "title": "Sincronizacion con otras comunidades",
+          "title": "Integracion con otras comunidades",
           "meta": "Auditorio"
         },
         
@@ -31,13 +31,13 @@
         {
           "start": "17:00",
           "end": "18:00",
-          "title": "Expositor Google Es",
+          "title": "Expositor de Google",
           "meta": "Auditorio"
         },
         {
           "start": "18:00",
           "end": "18:30",
-          "title": "Reprospectiva del evento.",
+          "title": "Retrospectiva del evento.",
           "meta": "Auditorio"
         },
         {
@@ -55,13 +55,13 @@
           "start": "16:00",
           "end": "17:00",
           "title": "Call4Papers1",
-          "meta": "Aula 3"
+          "meta": "Aula 1"
         },
         {
           "start": "07:00",
           "end": "09:30",
           "title": "Call4Papers2",
-          "meta": "Aula 3"
+          "meta": "Aula 2"
         },
         {
           "start": "12:45",
@@ -73,7 +73,7 @@
           "start": "19:00",
           "end": "22:00",
           "title": "Call4Papers4",
-          "meta": "Aula 3"
+          "meta": "Aula 4"
         }
       ]
     }
