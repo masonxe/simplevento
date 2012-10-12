@@ -22,4 +22,4 @@
 -dontwarn com.google.common.**
 
 # Maps JavaScript interface proguard flags
--keep class * implements com.google.android.apps.iosched.ui.MapFragment$MapJsi { *; }
+-keep class * implements net.abcdroid.devfest12.ui.MapFragment$MapJsi { *; }

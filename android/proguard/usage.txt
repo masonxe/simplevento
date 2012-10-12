@@ -429,29 +429,29 @@ android.support.v4.widget.SearchViewCompatHoneycomb$OnQueryTextListenerCompatBri
 android.support.v4.widget.SimpleCursorAdapter
 android.support.v4.widget.SimpleCursorAdapter$CursorToStringConverter
 android.support.v4.widget.SimpleCursorAdapter$ViewBinder
-com.google.android.apps.iosched.BuildConfig
-com.google.android.apps.iosched.Config
-com.google.android.apps.iosched.Manifest
-com.google.android.apps.iosched.Manifest$permission
-com.google.android.apps.iosched.R:
+net.abcdroid.devfest12.BuildConfig
+net.abcdroid.devfest12.Config
+net.abcdroid.devfest12.Manifest
+net.abcdroid.devfest12.Manifest$permission
+net.abcdroid.devfest12.R:
     10:10:public R()
-com.google.android.apps.iosched.R$attr
-com.google.android.apps.iosched.R$bool
-com.google.android.apps.iosched.R$color
-com.google.android.apps.iosched.R$dimen
-com.google.android.apps.iosched.R$drawable
-com.google.android.apps.iosched.R$id
-com.google.android.apps.iosched.R$integer
-com.google.android.apps.iosched.R$layout
-com.google.android.apps.iosched.R$menu
-com.google.android.apps.iosched.R$plurals
-com.google.android.apps.iosched.R$raw
-com.google.android.apps.iosched.R$string
-com.google.android.apps.iosched.R$style
-com.google.android.apps.iosched.R$styleable:
+net.abcdroid.devfest12.R$attr
+net.abcdroid.devfest12.R$bool
+net.abcdroid.devfest12.R$color
+net.abcdroid.devfest12.R$dimen
+net.abcdroid.devfest12.R$drawable
+net.abcdroid.devfest12.R$id
+net.abcdroid.devfest12.R$integer
+net.abcdroid.devfest12.R$layout
+net.abcdroid.devfest12.R$menu
+net.abcdroid.devfest12.R$plurals
+net.abcdroid.devfest12.R$raw
+net.abcdroid.devfest12.R$string
+net.abcdroid.devfest12.R$style
+net.abcdroid.devfest12.R$styleable:
     1609:1609:public R$styleable()
-com.google.android.apps.iosched.R$xml
-com.google.android.apps.iosched.appwidget.MyScheduleWidgetProvider:
+net.abcdroid.devfest12.R$xml
+net.abcdroid.devfest12.appwidget.MyScheduleWidgetProvider:
     public static final java.lang.String EXTRA_BLOCK_ID
     public static final java.lang.String EXTRA_STARRED_SESSION_ID
     public static final java.lang.String EXTRA_BLOCK_TYPE
@@ -461,7 +461,7 @@ com.google.android.apps.iosched.appwidget.MyScheduleWidgetProvider:
     public static final java.lang.String CLICK_ACTION
     public static final java.lang.String REFRESH_ACTION
     public static final java.lang.String EXTRA_PERFORM_SYNC
-com.google.android.apps.iosched.appwidget.MyScheduleWidgetService$BlocksQuery:
+net.abcdroid.devfest12.appwidget.MyScheduleWidgetService$BlocksQuery:
     public static final int _ID
     public static final int BLOCK_ID
     public static final int BLOCK_TITLE
@@ -473,7 +473,7 @@ com.google.android.apps.iosched.appwidget.MyScheduleWidgetService$BlocksQuery:
     public static final int STARRED_SESSION_ID
     public static final int STARRED_SESSION_TITLE
     public static final int STARRED_SESSION_ROOM_NAME
-com.google.android.apps.iosched.calendar.SessionAlarmService:
+net.abcdroid.devfest12.calendar.SessionAlarmService:
     public static final java.lang.String ACTION_NOTIFY_SESSION
     public static final java.lang.String ACTION_SCHEDULE_STARRED_BLOCK
     public static final java.lang.String ACTION_SCHEDULE_ALL_STARRED_BLOCKS
@@ -487,7 +487,7 @@ com.google.android.apps.iosched.calendar.SessionAlarmService:
     private static final long ONE_MINUTE_MILLIS
     private static final long TEN_MINUTES_MILLIS
     private static final long UNDEFINED_ALARM_OFFSET
-com.google.android.apps.iosched.calendar.SessionCalendarService:
+net.abcdroid.devfest12.calendar.SessionCalendarService:
     public static final java.lang.String ACTION_ADD_SESSION_CALENDAR
     public static final java.lang.String ACTION_REMOVE_SESSION_CALENDAR
     public static final java.lang.String ACTION_UPDATE_ALL_SESSIONS_CALENDAR
@@ -500,61 +500,61 @@ com.google.android.apps.iosched.calendar.SessionCalendarService:
     public static final java.lang.String EXTRA_SESSION_ROOM
     private static final long INVALID_CALENDAR_ID
     private static final java.lang.String CALENDAR_CLEAR_SEARCH_LIKE_EXPRESSION
-com.google.android.apps.iosched.calendar.SessionCalendarService$SessionsQuery:
+net.abcdroid.devfest12.calendar.SessionCalendarService$SessionsQuery:
     public static final int _ID
     public static final int BLOCK_START
     public static final int BLOCK_END
     public static final int SESSION_TITLE
     public static final int ROOM_NAME
     public static final int SESSION_STARRED
-com.google.android.apps.iosched.gcm.GCMIntentService:
+net.abcdroid.devfest12.gcm.GCMIntentService:
     private static final int TRIGGER_SYNC_MAX_JITTER_MILLIS
-com.google.android.apps.iosched.gcm.ServerUtilities:
+net.abcdroid.devfest12.gcm.ServerUtilities:
     private static final int MAX_ATTEMPTS
     private static final int BACKOFF_MILLIS
     44:44:public ServerUtilities()
-com.google.android.apps.iosched.io.HandlerException:
+net.abcdroid.devfest12.io.HandlerException:
     36:38:public HandlerException(java.lang.String,java.lang.Throwable)
-com.google.android.apps.iosched.io.HandlerException$NoDevsiteProfileException:
+net.abcdroid.devfest12.io.HandlerException$NoDevsiteProfileException:
     67:68:public HandlerException$NoDevsiteProfileException(java.lang.String)
     71:72:public HandlerException$NoDevsiteProfileException(java.lang.String,java.lang.Throwable)
-com.google.android.apps.iosched.io.HandlerException$UnauthorizedException:
+net.abcdroid.devfest12.io.HandlerException$UnauthorizedException:
     58:59:public HandlerException$UnauthorizedException(java.lang.String,java.lang.Throwable)
-com.google.android.apps.iosched.io.MyScheduleHandler
-com.google.android.apps.iosched.io.SandboxHandler:
+net.abcdroid.devfest12.io.MyScheduleHandler
+net.abcdroid.devfest12.io.SandboxHandler:
     private static final java.lang.String BASE_LOGO_URL
-com.google.android.apps.iosched.io.SessionsHandler:
+net.abcdroid.devfest12.io.SessionsHandler:
     private static final java.lang.String BASE_SESSION_URL
     private static final java.lang.String EVENT_TYPE_KEYNOTE
     private static final java.lang.String EVENT_TYPE_CODELAB
     private static final int PARSE_FLAG_FORCE_SCHEDULE_REMOVE
     private static final int PARSE_FLAG_FORCE_SCHEDULE_ADD
-com.google.android.apps.iosched.io.model.Announcement:
+net.abcdroid.devfest12.io.model.Announcement:
     19:19:public Announcement()
-com.google.android.apps.iosched.io.model.Day:
+net.abcdroid.devfest12.io.model.Day:
     19:19:public Day()
-com.google.android.apps.iosched.io.model.Error
-com.google.android.apps.iosched.io.model.Errors:
-    public com.google.android.apps.iosched.io.model.Error[] errors
+net.abcdroid.devfest12.io.model.Error
+net.abcdroid.devfest12.io.model.Errors:
+    public net.abcdroid.devfest12.io.model.Error[] errors
     public java.lang.String code
     19:19:public Errors()
-com.google.android.apps.iosched.io.model.Event:
+net.abcdroid.devfest12.io.model.Event:
     public java.lang.String has_streaming
     21:21:public Event()
-com.google.android.apps.iosched.io.model.Location
-com.google.android.apps.iosched.io.model.MyScheduleItem
-com.google.android.apps.iosched.io.model.MyScheduleResponse
-com.google.android.apps.iosched.io.model.Room:
+net.abcdroid.devfest12.io.model.Location
+net.abcdroid.devfest12.io.model.MyScheduleItem
+net.abcdroid.devfest12.io.model.MyScheduleResponse
+net.abcdroid.devfest12.io.model.Room:
     19:19:public Room()
-com.google.android.apps.iosched.io.model.SessionsResult:
+net.abcdroid.devfest12.io.model.SessionsResult:
     19:19:public SessionsResult()
-com.google.android.apps.iosched.io.model.Speaker:
+net.abcdroid.devfest12.io.model.Speaker:
     19:19:public Speaker()
-com.google.android.apps.iosched.io.model.TimeSlot:
+net.abcdroid.devfest12.io.model.TimeSlot:
     19:19:public TimeSlot()
-com.google.android.apps.iosched.io.model.Track:
+net.abcdroid.devfest12.io.model.Track:
     21:21:public Track()
-com.google.android.apps.iosched.provider.ScheduleContract:
+net.abcdroid.devfest12.provider.ScheduleContract:
     public static final long UPDATED_NEVER
     public static final long UPDATED_UNKNOWN
     public static final java.lang.String CONTENT_AUTHORITY
@@ -572,14 +572,14 @@ com.google.android.apps.iosched.provider.ScheduleContract:
     private static final java.lang.String PATH_SEARCH
     private static final java.lang.String PATH_SEARCH_SUGGEST
     666:667:private ScheduleContract()
-com.google.android.apps.iosched.provider.ScheduleContract$Announcements:
+net.abcdroid.devfest12.provider.ScheduleContract$Announcements:
     public static final java.lang.String CONTENT_TYPE
     public static final java.lang.String CONTENT_ITEM_TYPE
     public static final java.lang.String DEFAULT_SORT
     613:613:public ScheduleContract$Announcements()
     636:636:public static android.net.Uri buildAnnouncementsDirUri(java.lang.String)
-com.google.android.apps.iosched.provider.ScheduleContract$AnnouncementsColumns
-com.google.android.apps.iosched.provider.ScheduleContract$Blocks:
+net.abcdroid.devfest12.provider.ScheduleContract$AnnouncementsColumns
+net.abcdroid.devfest12.provider.ScheduleContract$Blocks:
     public static final java.lang.String CONTENT_TYPE
     public static final java.lang.String CONTENT_ITEM_TYPE
     public static final java.lang.String SESSIONS_COUNT
@@ -595,17 +595,17 @@ com.google.android.apps.iosched.provider.ScheduleContract$Blocks:
     public static final java.lang.String EMPTY_SESSIONS_SELECTION
     199:199:public ScheduleContract$Blocks()
     295:295:public static android.net.Uri buildBlocksBetweenDirUri(long,long)
-com.google.android.apps.iosched.provider.ScheduleContract$BlocksColumns
-com.google.android.apps.iosched.provider.ScheduleContract$Rooms:
+net.abcdroid.devfest12.provider.ScheduleContract$BlocksColumns
+net.abcdroid.devfest12.provider.ScheduleContract$Rooms:
     public static final java.lang.String CONTENT_TYPE
     public static final java.lang.String CONTENT_ITEM_TYPE
     public static final java.lang.String DEFAULT_SORT
     379:379:public ScheduleContract$Rooms()
-com.google.android.apps.iosched.provider.ScheduleContract$RoomsColumns
-com.google.android.apps.iosched.provider.ScheduleContract$SearchSuggest:
+net.abcdroid.devfest12.provider.ScheduleContract$RoomsColumns
+net.abcdroid.devfest12.provider.ScheduleContract$SearchSuggest:
     public static final java.lang.String DEFAULT_SORT
     648:648:public ScheduleContract$SearchSuggest()
-com.google.android.apps.iosched.provider.ScheduleContract$Sessions:
+net.abcdroid.devfest12.provider.ScheduleContract$Sessions:
     public static final java.lang.String CONTENT_TYPE
     public static final java.lang.String CONTENT_ITEM_TYPE
     public static final java.lang.String BLOCK_ID
@@ -617,16 +617,16 @@ com.google.android.apps.iosched.provider.ScheduleContract$Sessions:
     public static final java.lang.String UPCOMING_SELECTION
     415:415:public ScheduleContract$Sessions()
     498:498:public static android.net.Uri buildSessionsAtDirUri(long)
-com.google.android.apps.iosched.provider.ScheduleContract$SessionsColumns
-com.google.android.apps.iosched.provider.ScheduleContract$Speakers:
+net.abcdroid.devfest12.provider.ScheduleContract$SessionsColumns
+net.abcdroid.devfest12.provider.ScheduleContract$Speakers:
     public static final java.lang.String CONTENT_TYPE
     public static final java.lang.String CONTENT_ITEM_TYPE
     public static final java.lang.String DEFAULT_SORT
     524:524:public ScheduleContract$Speakers()
     547:547:public static android.net.Uri buildSessionsDirUri(java.lang.String)
-com.google.android.apps.iosched.provider.ScheduleContract$SpeakersColumns
-com.google.android.apps.iosched.provider.ScheduleContract$SyncColumns
-com.google.android.apps.iosched.provider.ScheduleContract$Tracks:
+net.abcdroid.devfest12.provider.ScheduleContract$SpeakersColumns
+net.abcdroid.devfest12.provider.ScheduleContract$SyncColumns
+net.abcdroid.devfest12.provider.ScheduleContract$Tracks:
     public static final java.lang.String CONTENT_TYPE
     public static final java.lang.String CONTENT_ITEM_TYPE
     public static final java.lang.String ALL_TRACK_ID
@@ -634,8 +634,8 @@ com.google.android.apps.iosched.provider.ScheduleContract$Tracks:
     public static final java.lang.String VENDORS_COUNT
     public static final java.lang.String DEFAULT_SORT
     319:319:public ScheduleContract$Tracks()
-com.google.android.apps.iosched.provider.ScheduleContract$TracksColumns
-com.google.android.apps.iosched.provider.ScheduleContract$Vendors:
+net.abcdroid.devfest12.provider.ScheduleContract$TracksColumns
+net.abcdroid.devfest12.provider.ScheduleContract$Vendors:
     public static final java.lang.String CONTENT_TYPE
     public static final java.lang.String CONTENT_ITEM_TYPE
     public static final java.lang.String TRACK_ID
@@ -645,21 +645,21 @@ com.google.android.apps.iosched.provider.ScheduleContract$Vendors:
     584:584:public static android.net.Uri buildSearchUri(java.lang.String)
     588:589:public static boolean isSearchUri(android.net.Uri)
     598:598:public static java.lang.String getSearchQuery(android.net.Uri)
-com.google.android.apps.iosched.provider.ScheduleContract$VendorsColumns
-com.google.android.apps.iosched.provider.ScheduleDatabase:
+net.abcdroid.devfest12.provider.ScheduleContract$VendorsColumns
+net.abcdroid.devfest12.provider.ScheduleDatabase:
     private static final java.lang.String DATABASE_NAME
     private static final int VER_LAUNCH
     private static final int VER_SESSION_TYPE
     private static final int DATABASE_VERSION
-com.google.android.apps.iosched.provider.ScheduleDatabase$Qualified
-com.google.android.apps.iosched.provider.ScheduleDatabase$References
-com.google.android.apps.iosched.provider.ScheduleDatabase$SessionsSearchColumns
-com.google.android.apps.iosched.provider.ScheduleDatabase$SessionsSpeakers
-com.google.android.apps.iosched.provider.ScheduleDatabase$SessionsTracks
-com.google.android.apps.iosched.provider.ScheduleDatabase$Subquery
-com.google.android.apps.iosched.provider.ScheduleDatabase$Tables
-com.google.android.apps.iosched.provider.ScheduleDatabase$Triggers
-com.google.android.apps.iosched.provider.ScheduleProvider:
+net.abcdroid.devfest12.provider.ScheduleDatabase$Qualified
+net.abcdroid.devfest12.provider.ScheduleDatabase$References
+net.abcdroid.devfest12.provider.ScheduleDatabase$SessionsSearchColumns
+net.abcdroid.devfest12.provider.ScheduleDatabase$SessionsSpeakers
+net.abcdroid.devfest12.provider.ScheduleDatabase$SessionsTracks
+net.abcdroid.devfest12.provider.ScheduleDatabase$Subquery
+net.abcdroid.devfest12.provider.ScheduleDatabase$Tables
+net.abcdroid.devfest12.provider.ScheduleDatabase$Triggers
+net.abcdroid.devfest12.provider.ScheduleProvider:
     private static final int BLOCKS
     private static final int BLOCKS_BETWEEN
     private static final int BLOCKS_ID
@@ -692,32 +692,32 @@ com.google.android.apps.iosched.provider.ScheduleProvider:
     private static final int ANNOUNCEMENTS_ID
     private static final int SEARCH_SUGGEST
     private static final java.lang.String MIME_XML
-com.google.android.apps.iosched.provider.ScheduleProvider$Qualified
-com.google.android.apps.iosched.provider.ScheduleProvider$Subquery
-com.google.android.apps.iosched.sync.ScheduleUpdaterService:
+net.abcdroid.devfest12.provider.ScheduleProvider$Qualified
+net.abcdroid.devfest12.provider.ScheduleProvider$Subquery
+net.abcdroid.devfest12.sync.ScheduleUpdaterService:
     public static final java.lang.String EXTRA_SESSION_ID
     public static final java.lang.String EXTRA_IN_SCHEDULE
     private static final int SCHEDULE_UPDATE_DELAY_MILLIS
-com.google.android.apps.iosched.sync.SyncHelper:
+net.abcdroid.devfest12.sync.SyncHelper:
     public static final int FLAG_SYNC_LOCAL
     public static final int FLAG_SYNC_REMOTE
     private static final int LOCAL_VERSION_CURRENT
-com.google.android.apps.iosched.ui.AccountActivity:
+net.abcdroid.devfest12.ui.AccountActivity:
     public static final java.lang.String EXTRA_FINISH_INTENT
     private static final int REQUEST_AUTHENTICATE
-com.google.android.apps.iosched.ui.AccountActivity$AuthProgressFragment:
+net.abcdroid.devfest12.ui.AccountActivity$AuthProgressFragment:
     private static final int TRY_AGAIN_DELAY_MILLIS
-com.google.android.apps.iosched.ui.AccountActivity$ChooseAccountFragment$AccountListAdapter:
+net.abcdroid.devfest12.ui.AccountActivity$ChooseAccountFragment$AccountListAdapter:
     private static final int LAYOUT_RESOURCE
-com.google.android.apps.iosched.ui.MapFragment:
+net.abcdroid.devfest12.ui.MapFragment:
     public static final java.lang.String EXTRA_ROOM
     private static final java.lang.String SYSTEM_FEATURE_MULTITOUCH
     private static final java.lang.String MAP_JSI_NAME
     private static final java.lang.String MAP_URL
-com.google.android.apps.iosched.ui.MapFragment$MapJsi:
+net.abcdroid.devfest12.ui.MapFragment$MapJsi:
     public abstract void openContentInfo(java.lang.String)
     public abstract void onMapReady()
-com.google.android.apps.iosched.ui.MyScheduleFragment$BlocksQuery:
+net.abcdroid.devfest12.ui.MyScheduleFragment$BlocksQuery:
     public static final int _ID
     public static final int BLOCK_ID
     public static final int BLOCK_TITLE
@@ -734,9 +734,9 @@ com.google.android.apps.iosched.ui.MyScheduleFragment$BlocksQuery:
     public static final int STARRED_SESSION_HASHTAGS
     public static final int STARRED_SESSION_URL
     public static final int STARRED_SESSION_LIVESTREAM_URL
-com.google.android.apps.iosched.ui.SessionDetailFragment:
+net.abcdroid.devfest12.ui.SessionDetailFragment:
     public static final java.lang.String EXTRA_VARIABLE_HEIGHT_HEADER
-com.google.android.apps.iosched.ui.SessionDetailFragment$SessionsQuery:
+net.abcdroid.devfest12.ui.SessionDetailFragment$SessionsQuery:
     public static final int _TOKEN
     public static final int BLOCK_START
     public static final int BLOCK_END
@@ -753,14 +753,14 @@ com.google.android.apps.iosched.ui.SessionDetailFragment$SessionsQuery:
     public static final int LIVESTREAM_URL
     public static final int ROOM_ID
     public static final int ROOM_NAME
-com.google.android.apps.iosched.ui.SessionDetailFragment$SpeakersQuery:
+net.abcdroid.devfest12.ui.SessionDetailFragment$SpeakersQuery:
     public static final int _TOKEN
     public static final int SPEAKER_NAME
     public static final int SPEAKER_IMAGE_URL
     public static final int SPEAKER_COMPANY
     public static final int SPEAKER_ABSTRACT
     public static final int SPEAKER_URL
-com.google.android.apps.iosched.ui.SessionLivestreamActivity:
+net.abcdroid.devfest12.ui.SessionLivestreamActivity:
     private static final java.lang.String EXTRA_PREFIX
     public static final java.lang.String EXTRA_YOUTUBE_URL
     public static final java.lang.String EXTRA_TRACK
@@ -783,9 +783,9 @@ com.google.android.apps.iosched.ui.SessionLivestreamActivity:
     514:514:public void onBuffering(boolean)
     518:518:public void onEnded()
     522:523:public void onError()
-com.google.android.apps.iosched.ui.SessionLivestreamActivity$SessionLiveCaptionsFragment:
+net.abcdroid.devfest12.ui.SessionLivestreamActivity$SessionLiveCaptionsFragment:
     private static final java.lang.String CAPTIONS_DARK_THEME_URL_PARAM
-com.google.android.apps.iosched.ui.SessionLivestreamActivity$SessionSummaryQuery:
+net.abcdroid.devfest12.ui.SessionLivestreamActivity$SessionSummaryQuery:
     public static final int _TOKEN
     public static final int SESSION_ID
     public static final int TITLE
@@ -795,7 +795,7 @@ com.google.android.apps.iosched.ui.SessionLivestreamActivity$SessionSummaryQuery
     public static final int TRACK_NAME
     public static final int BLOCK_START
     public static final int BLOCK_END
-com.google.android.apps.iosched.ui.SessionLivestreamActivity$SessionsQuery:
+net.abcdroid.devfest12.ui.SessionLivestreamActivity$SessionsQuery:
     public static final int _TOKEN
     public static final int ID
     public static final int SESSION_ID
@@ -804,9 +804,9 @@ com.google.android.apps.iosched.ui.SessionLivestreamActivity$SessionsQuery:
     public static final int TRACK_COLOR
     public static final int BLOCK_START
     public static final int BLOCK_END
-com.google.android.apps.iosched.ui.SessionsFragment:
+net.abcdroid.devfest12.ui.SessionsFragment:
     private static final java.lang.String STATE_SELECTED_ID
-com.google.android.apps.iosched.ui.SessionsFragment$SearchQuery:
+net.abcdroid.devfest12.ui.SessionsFragment$SearchQuery:
     public static final int _TOKEN
     public static final int _ID
     public static final int SESSION_ID
@@ -818,7 +818,7 @@ com.google.android.apps.iosched.ui.SessionsFragment$SearchQuery:
     public static final int ROOM_ID
     public static final int HASHTAGS
     public static final int URL
-com.google.android.apps.iosched.ui.SessionsFragment$SessionsQuery:
+net.abcdroid.devfest12.ui.SessionsFragment$SessionsQuery:
     public static final int _TOKEN
     public static final int _ID
     public static final int SESSION_ID
@@ -831,54 +831,54 @@ com.google.android.apps.iosched.ui.SessionsFragment$SessionsQuery:
     public static final int HASHTAGS
     public static final int URL
     public static final int LIVESTREAM_URL
-com.google.android.apps.iosched.ui.SocialStreamFragment:
+net.abcdroid.devfest12.ui.SocialStreamFragment:
     public static final java.lang.String EXTRA_QUERY
     private static final java.lang.String STATE_POSITION
     private static final java.lang.String STATE_TOP
     private static final long MAX_RESULTS_PER_REQUEST
     private static final int STREAM_LOADER_ID
-com.google.android.apps.iosched.ui.SocialStreamFragment$StreamAdapter:
+net.abcdroid.devfest12.ui.SocialStreamFragment$StreamAdapter:
     private static final int VIEW_TYPE_ACTIVITY
     private static final int VIEW_TYPE_LOADING
-com.google.android.apps.iosched.ui.SocialStreamFragment$StreamLoader:
+net.abcdroid.devfest12.ui.SocialStreamFragment$StreamLoader:
     453:454:public void setSearchString(java.lang.String)
     457:459:public void refresh(java.lang.String)
     462:464:public void refresh()
-com.google.android.apps.iosched.ui.SocialStreamFragment$StreamRowViewBinder:
+net.abcdroid.devfest12.ui.SocialStreamFragment$StreamRowViewBinder:
     564:564:private SocialStreamFragment$StreamRowViewBinder()
-com.google.android.apps.iosched.ui.TrackInfoHelperFragment:
+net.abcdroid.devfest12.ui.TrackInfoHelperFragment:
     public static final java.lang.String ARG_TRACK
-com.google.android.apps.iosched.ui.TrackInfoHelperFragment$TracksQuery:
+net.abcdroid.devfest12.ui.TrackInfoHelperFragment$TracksQuery:
     public static final int TRACK_ID
     public static final int TRACK_NAME
     public static final int TRACK_COLOR
-com.google.android.apps.iosched.ui.TracksAdapter:
+net.abcdroid.devfest12.ui.TracksAdapter:
     private static final int ALL_ITEM_ID
     private static final int MAP_ITEM_ID
-com.google.android.apps.iosched.ui.TracksAdapter$TracksQuery:
+net.abcdroid.devfest12.ui.TracksAdapter$TracksQuery:
     public static final int _TOKEN
     public static final int _ID
     public static final int TRACK_ID
     public static final int TRACK_NAME
     public static final int TRACK_ABSTRACT
     public static final int TRACK_COLOR
-com.google.android.apps.iosched.ui.VendorDetailFragment$VendorsQuery:
+net.abcdroid.devfest12.ui.VendorDetailFragment$VendorsQuery:
     public static final int _TOKEN
     public static final int NAME
     public static final int DESC
     public static final int URL
     public static final int LOGO_URL
     public static final int TRACK_ID
-com.google.android.apps.iosched.ui.VendorsFragment:
+net.abcdroid.devfest12.ui.VendorsFragment:
     private static final java.lang.String STATE_SELECTED_ID
-com.google.android.apps.iosched.ui.VendorsFragment$VendorsQuery:
+net.abcdroid.devfest12.ui.VendorsFragment$VendorsQuery:
     public static final int _TOKEN
     public static final int _ID
     public static final int VENDOR_ID
     public static final int NAME
-com.google.android.apps.iosched.ui.WhatsOnFragment:
+net.abcdroid.devfest12.ui.WhatsOnFragment:
     private static final int ANNOUNCEMENTS_LOADER_ID
-com.google.android.apps.iosched.ui.gtv.GoogleTVSessionLivestreamActivity:
+net.abcdroid.devfest12.ui.gtv.GoogleTVSessionLivestreamActivity:
     private static final java.lang.String TAG_SESSION_SUMMARY
     private static final int UPCOMING_SESSIONS_QUERY_ID
     private static final java.lang.String PROMO_VIDEO_URL
@@ -891,7 +891,7 @@ com.google.android.apps.iosched.ui.gtv.GoogleTVSessionLivestreamActivity:
     360:362:public void onError()
     431:446:private void layoutFullscreenVideo(boolean)
     454:473:private void layoutGoogleTVFullScreen(boolean)
-com.google.android.apps.iosched.ui.gtv.GoogleTVSessionLivestreamActivity$SessionSummaryQuery:
+net.abcdroid.devfest12.ui.gtv.GoogleTVSessionLivestreamActivity$SessionSummaryQuery:
     public static final int _TOKEN
     public static final int SESSION_ID
     public static final int TITLE
@@ -901,7 +901,7 @@ com.google.android.apps.iosched.ui.gtv.GoogleTVSessionLivestreamActivity$Session
     public static final int TRACK_NAME
     public static final int BLOCK_START
     public static final int BLOCK_END
-com.google.android.apps.iosched.ui.gtv.GoogleTVSessionLivestreamActivity$SessionsQuery:
+net.abcdroid.devfest12.ui.gtv.GoogleTVSessionLivestreamActivity$SessionsQuery:
     public static final int _TOKEN
     public static final int ID
     public static final int SESSION_ID
@@ -910,36 +910,36 @@ com.google.android.apps.iosched.ui.gtv.GoogleTVSessionLivestreamActivity$Session
     public static final int TRACK_COLOR
     public static final int BLOCK_START
     public static final int BLOCK_END
-com.google.android.apps.iosched.ui.phone.MapActivity$RoomsQuery:
+net.abcdroid.devfest12.ui.phone.MapActivity$RoomsQuery:
     public static final int ROOM_ID
     public static final int ROOM_NAME
     public static final int ROOM_FLOOR
-com.google.android.apps.iosched.ui.tablet.MapMultiPaneActivity$RoomsQuery:
+net.abcdroid.devfest12.ui.tablet.MapMultiPaneActivity$RoomsQuery:
     public static final int ROOM_ID
     public static final int ROOM_NAME
     public static final int ROOM_FLOOR
-com.google.android.apps.iosched.ui.tablet.SessionsVendorsMultiPaneActivity:
+net.abcdroid.devfest12.ui.tablet.SessionsVendorsMultiPaneActivity:
     public static final java.lang.String EXTRA_MASTER_URI
     private static final java.lang.String STATE_VIEW_TYPE
-com.google.android.apps.iosched.ui.tablet.TracksDropdownFragment:
+net.abcdroid.devfest12.ui.tablet.TracksDropdownFragment:
     public static final java.lang.String VIEW_TYPE_SESSIONS
     public static final java.lang.String VIEW_TYPE_VENDORS
     private static final java.lang.String STATE_VIEW_TYPE
     private static final java.lang.String STATE_SELECTED_TRACK_ID
     115:116:public void selectTrack(java.lang.String)
-com.google.android.apps.iosched.ui.widget.ButtonBar
-com.google.android.apps.iosched.ui.widget.ShowHideMasterLayout:
+net.abcdroid.devfest12.ui.widget.ButtonBar
+net.abcdroid.devfest12.ui.widget.ShowHideMasterLayout:
     public static final int FLAG_IMMEDIATE
-com.google.android.apps.iosched.util.AccountUtils:
+net.abcdroid.devfest12.util.AccountUtils:
     private static final java.lang.String PREF_CHOSEN_ACCOUNT
     private static final java.lang.String PREF_AUTH_TOKEN
     private static final java.lang.String AUTH_TOKEN_TYPE
-com.google.android.apps.iosched.util.BeamUtils:
+net.abcdroid.devfest12.util.BeamUtils:
     private static final java.lang.String PREF_BEAM_STATE
     private static final int BEAM_STATE_UNLOCKED
     private static final int BEAM_STATE_LOCKED
     37:37:public BeamUtils()
-com.google.android.apps.iosched.util.DiskLruCache:
+net.abcdroid.devfest12.util.DiskLruCache:
     static final java.lang.String JOURNAL_FILE
     static final java.lang.String JOURNAL_FILE_TMP
     static final java.lang.String MAGIC
@@ -955,21 +955,21 @@ com.google.android.apps.iosched.util.DiskLruCache:
     553:553:public long maxSize()
     562:562:public synchronized long size()
     724:724:private static java.lang.String inputStreamToString(java.io.InputStream)
-    517:517:static synthetic com.google.android.apps.iosched.util.DiskLruCache$Editor access$5(com.google.android.apps.iosched.util.DiskLruCache,java.lang.String,long)
+    517:517:static synthetic net.abcdroid.devfest12.util.DiskLruCache$Editor access$5(net.abcdroid.devfest12.util.DiskLruCache,java.lang.String,long)
     723:723:static synthetic java.lang.String access$6(java.io.InputStream)
     111:111:static synthetic java.nio.charset.Charset access$7()
-com.google.android.apps.iosched.util.DiskLruCache$Editor:
+net.abcdroid.devfest12.util.DiskLruCache$Editor:
     787:787:public java.io.InputStream newInputStream(int)
     803:804:public java.lang.String getString(int)
     827:834:public void set(int,java.lang.String)
-com.google.android.apps.iosched.util.DiskLruCache$Snapshot:
-    747:747:public com.google.android.apps.iosched.util.DiskLruCache$Editor edit()
+net.abcdroid.devfest12.util.DiskLruCache$Snapshot:
+    747:747:public net.abcdroid.devfest12.util.DiskLruCache$Editor edit()
     761:761:public java.lang.String getString(int)
-com.google.android.apps.iosched.util.HelpUtils:
+net.abcdroid.devfest12.util.HelpUtils:
     51:51:public HelpUtils()
-com.google.android.apps.iosched.util.HelpUtils$AboutDialog:
+net.abcdroid.devfest12.util.HelpUtils$AboutDialog:
     private static final java.lang.String VERSION_UNAVAILABLE
-com.google.android.apps.iosched.util.ImageCache:
+net.abcdroid.devfest12.util.ImageCache:
     private static final float DEFAULT_MEM_CACHE_PERCENT
     private static final int DEFAULT_DISK_CACHE_SIZE
     private static final java.lang.String DEFAULT_DISK_CACHE_DIR
@@ -980,10 +980,10 @@ com.google.android.apps.iosched.util.ImageCache:
     private static final boolean DEFAULT_CLEAR_DISK_CACHE_ON_START
     private static final boolean DEFAULT_INIT_DISK_CACHE_ON_CREATE
     89:91:public ImageCache(android.content.Context)
-com.google.android.apps.iosched.util.ImageCache$ImageCacheParams:
+net.abcdroid.devfest12.util.ImageCache$ImageCacheParams:
     368:370:public ImageCache$ImageCacheParams(android.content.Context,java.lang.String)
     372:374:public ImageCache$ImageCacheParams(android.content.Context,java.io.File)
-com.google.android.apps.iosched.util.ImageFetcher:
+net.abcdroid.devfest12.util.ImageFetcher:
     public static final int IO_BUFFER_SIZE_BYTES
     private static final int MAX_THUMBNAIL_BYTES
     private static final int HTTP_CACHE_SIZE
@@ -1000,10 +1000,10 @@ com.google.android.apps.iosched.util.ImageFetcher:
     125:126:public void setImageSize(int)
     341:379:public static java.io.File downloadBitmapToFile(java.lang.String,java.io.File)
     397:406:public static android.graphics.Bitmap decodeSampledBitmapFromFile(java.lang.String,int,int)
-com.google.android.apps.iosched.util.ImageFetcher$ImageData:
+net.abcdroid.devfest12.util.ImageFetcher$ImageData:
     public static final int IMAGE_TYPE_THUMBNAIL
     public static final int IMAGE_TYPE_NORMAL
-com.google.android.apps.iosched.util.ImageWorker:
+net.abcdroid.devfest12.util.ImageWorker:
     private static final int FADE_IN_TIME
     private static final int MESSAGE_CLEAR
     private static final int MESSAGE_INIT_DISK_CACHE
@@ -1015,27 +1015,27 @@ com.google.android.apps.iosched.util.ImageWorker:
     231:232:public void setExitTasksEarly(boolean)
     250:257:public static void cancelWork(android.widget.ImageView)
     499:500:public void clearCache()
-com.google.android.apps.iosched.util.Lists:
+net.abcdroid.devfest12.util.Lists:
     26:26:public Lists()
     59:62:public static varargs java.util.ArrayList newArrayList(java.lang.Object[])
-com.google.android.apps.iosched.util.LogUtils:
+net.abcdroid.devfest12.util.LogUtils:
     private static final java.lang.String LOG_PREFIX
     private static final int MAX_LOG_TAG_LENGTH
     67:70:public static void LOGV(java.lang.String,java.lang.String,java.lang.Throwable)
     96:97:private LogUtils()
-com.google.android.apps.iosched.util.Maps:
+net.abcdroid.devfest12.util.Maps:
     24:24:public Maps()
-com.google.android.apps.iosched.util.ParserUtils:
+net.abcdroid.devfest12.util.ParserUtils:
     public static final java.lang.String BLOCK_TYPE_SESSION
     public static final java.lang.String BLOCK_TYPE_CODE_LAB
     public static final java.lang.String BLOCK_TYPE_KEYNOTE
     28:28:public ParserUtils()
-com.google.android.apps.iosched.util.ReflectionUtils:
+net.abcdroid.devfest12.util.ReflectionUtils:
     24:24:public ReflectionUtils()
     49:55:public static java.lang.Object callWithDefault(java.lang.Object,java.lang.String,java.lang.Object)
-com.google.android.apps.iosched.util.SelectionBuilder:
-    55:58:public com.google.android.apps.iosched.util.SelectionBuilder reset()
-com.google.android.apps.iosched.util.UIUtils:
+net.abcdroid.devfest12.util.SelectionBuilder:
+    55:58:public net.abcdroid.devfest12.util.SelectionBuilder reset()
+net.abcdroid.devfest12.util.UIUtils:
     public static final java.lang.String CONFERENCE_HASHTAG
     private static final int SECOND_MILLIS
     private static final int MINUTE_MILLIS
@@ -1045,7 +1045,7 @@ com.google.android.apps.iosched.util.UIUtils:
     public static final java.lang.String GOOGLE_PLUS_PACKAGE_NAME
     private static final int BRIGHTNESS_THRESHOLD
     65:65:public UIUtils()
-com.google.android.apps.iosched.util.actionmodecompat.ActionMode:
+net.abcdroid.devfest12.util.actionmodecompat.ActionMode:
     private java.lang.Object mTag
     63:64:public void setTag(java.lang.Object)
     77:77:public java.lang.Object getTag()
@@ -1053,10 +1053,10 @@ com.google.android.apps.iosched.util.actionmodecompat.ActionMode:
     public abstract void invalidate()
     public abstract java.lang.CharSequence getTitle()
     137:137:public boolean isUiFocusable()
-com.google.android.apps.iosched.util.actionmodecompat.ActionModeBase:
+net.abcdroid.devfest12.util.actionmodecompat.ActionModeBase:
     101:102:public void setTitle(int)
     144:144:public java.lang.CharSequence getTitle()
-com.google.android.apps.iosched.util.actionmodecompat.ActionModeHoneycomb:
+net.abcdroid.devfest12.util.actionmodecompat.ActionModeHoneycomb:
     78:79:public void setTitle(int)
     84:85:public void invalidate()
     96:96:public java.lang.CharSequence getTitle()

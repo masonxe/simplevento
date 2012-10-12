@@ -1,12 +1,12 @@
 {
  "track": [
    {
-     "name": "Android",
+     "name": "Mobile",
      "color": "#A6BC40",
      "abstract": "Aprendiendo sobre aplicaciones para moviles y tabletas con Android"
    },
    {
-     "name": "Cloud Platform",
+     "name": "Cloud",
      "color": "#2076BC",
      "abstract": "Aprendiendo sobre la plataforma Cloud de Google que ofrece a los desarrolladores."   
    },
@@ -16,9 +16,9 @@
      "abstract": "Conversaciones sobre temas relacionados con ideas de negocio, capital, riesgo y la iniciativa empresarial."
    },
     {
-     "name": "Call4Papers",
+     "name": "Emprende",
      "color": "#fff200",
-     "abstract": "Voluntarios fanaticos de las tecnologias Google."
+     "abstract": "Emprendedores usando tecnologias Google."
    }
  ]
 }

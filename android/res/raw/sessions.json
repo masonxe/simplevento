@@ -31,17 +31,17 @@
      "end_date": "2012-10-27",
      "level": "",
      "track": [
-      "Android"
+      "Mobile"
      ],
      "start_time": "11:00",
-     "title": "Android App Clinic.",
-     "abstract": "Revisaremos juntos los principios basicos de las aplicaciones android.",
+     "title": "Mobile App Clinic.",
+     "abstract": "Revisaremos juntos los principios basicos de las aplicaciones Mobile.",
      "start_date": "2012-10-27",
      "attending": "N",
      "has_streaming": false,
      "end_time": "12:00",
      "id": "gooio2012/105/",
-     "tags": "Android",
+     "tags": "Mobile",
      "speaker_id": [
       "gooio2012/105//gooio2012/2179",
       "gooio2012/105//gooio2012/2180"
@@ -75,7 +75,7 @@
      "end_date": "2012-10-27",
      "level": "Intermediate",
      "track": [
-      "Cloud Platform"
+      "Cloud"
      ],
      "start_time": "11:00",
      "title": "Automatización de procesos con Apps Script",
@@ -97,18 +97,18 @@
      "end_date": "2012-10-27",
      "level": "Intermediate",
      "track": [
-      "Android"
+      "Mobile"
      ],
      "start_time": "12:00",
      "prereq": [
       "Google Wallet"
      ],
-     "abstract": "Pasos para crear un juego para Android.",
+     "abstract": "Pasos para crear un juego para Mobile.",
      "start_date": "2012-10-27",
      "attending": "N",
      "has_streaming": false,
      "end_time": "13:00",
-     "title": "Creacion de juegos para Android",
+     "title": "Creacion de juegos para Mobile",
      "id": "gooio2012/404/",
      "tags": "Google Wallet,payments",
      "speaker_id": [
@@ -143,7 +143,7 @@
      "end_date": "2012-10-27",
      "level": "Intermediate",
      "track": [
-      "Cloud Platform"
+      "Cloud"
      ],
      "start_time": "12:00",
      "title": "Mi primer proyecto con GoogleSites y Apps Script",
@@ -154,7 +154,7 @@
      "end_time": "13:00",
      "livestream_url": "_PmU9mpdnqM",
      "id": "gooio2012/123/",
-     "tags": "Android,Google Play",
+     "tags": "Mobile,Google Play",
      "speaker_id": [
       "gooio2012/123//gooio2012/2192",
       "gooio2012/123//gooio2012/2193"
@@ -165,18 +165,18 @@
      "end_date": "2012-10-27",
      "level": "Intermediate",
      "track": [
-      "Android"
+      "Mobile"
      ],
      "start_time": "14:00",
      "prereq": [
       "none"
      ],
-     "abstract": "Desarrollo de Juegos y aplicaciones Interactivas con Adobe AIR para Android.",
+     "abstract": "Desarrollo de Juegos y aplicaciones Interactivas con Adobe AIR para Mobile.",
      "start_date": "2012-10-27",
      "attending": "N",
      "has_streaming": false,
      "end_time": "15:00",
-     "title": "Desarrollo de Juegos y aplicaciones Interactivas con Adobe AIR para Android",
+     "title": "Desarrollo de Juegos y aplicaciones Interactivas con Adobe AIR para Mobile",
      "id": "gooio2012/208/",
      "tags": "Extensions,Content Security Policy,HTTPS,security,performance,Progress!,The Futureâ„¢!",
      "speaker_id": [
@@ -214,11 +214,11 @@
      "end_date": "2012-10-27",
      "level": "Intermediate",
      "track": [
-      "Cloud Platform"
+      "Cloud"
      ],
      "start_time": "14:00",
      "title": "Mi primera app con Google App Engine y Google Web Toolkit",
-     "abstract": "Veremos como crear y deployar nuestro primer proyecto en la Infraestructura de Google, las caracteristicas de la plataforma, ventajas y emprendimiento",
+     "abstract": "Veremos como crear nuestro primer proyecto y como deployarlo en la Infraestructura de Google, luego veremos las caracteristicas de la plataforma y similutudes con algunos frameworks conocidos",
      "start_date": "2012-10-27",
      "attending": "N",
      "has_streaming": false,
@@ -240,12 +240,12 @@
      "prereq": [
       "Merchants using Content API"
      ],
-     "abstract": " Usando NFC(Near Field Communication) en android.",
+     "abstract": " Usando NFC(Near Field Communication) en Mobile.",
      "start_date": "2012-10-27",
      "attending": "N",
      "has_streaming": false,
      "end_time": "16:00",
-     "title": "NFC(Near Field Communication) en android",
+     "title": "NFC(Near Field Communication) en Mobile",
      "id": "gooio2012/400/",
      "tags": "Google Shopping,Google Merchant Center",
      "speaker_id": [

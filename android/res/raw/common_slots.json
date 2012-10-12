@@ -52,28 +52,40 @@
       "date": "2012-10-28",
       "slot": [
         {
-          "start": "16:00",
-          "end": "17:00",
-          "title": "Call4Papers1",
-          "meta": "Aula 1"
+          "start": "17:30",
+          "end": "18:00",
+          "title": "Recepcion y Bienvenida",
+          "meta": "Auditorio"
         },
         {
-          "start": "07:00",
-          "end": "09:30",
-          "title": "Call4Papers2",
-          "meta": "Aula 2"
+          "start": "18:15",
+          "end": "18:30",
+          "title": "Google Intro",
+          "meta": "Auditorio"
         },
         {
-          "start": "12:45",
-          "end": "14:45",
-          "title": "Call4Papers3",
-          "meta": "Aula 3"
+          "start": "18:30",
+          "end": "19:15",
+          "title": "Panel de discusion sobre emprendimiento",
+          "meta": "Auditorio"
         },
          {
-          "start": "19:00",
-          "end": "22:00",
-          "title": "Call4Papers4",
-          "meta": "Aula 4"
+          "start": "19:15",
+          "end": "19:30",
+          "title": "Presentacion del Ecosistema Actual : Casos de Exito",
+          "meta": "Auditorio"
+        },
+        {
+          "start": "19:30",
+          "end": "19:45",
+          "title": "Herramientas para emprendedores",
+          "meta": "Auditorio"
+        },
+         {
+          "start": "19:45",
+          "end": "20:00",
+          "title": "Cierre del evento",
+          "meta": "Auditorio"
         }
       ]
     }
