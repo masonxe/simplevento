@@ -322,9 +322,9 @@ public class ScheduleContract {
                 BASE_CONTENT_URI.buildUpon().appendPath(PATH_TRACKS).build();
 
         public static final String CONTENT_TYPE =
-                "vnd.android.cursor.dir/vnd.iosched.track";
+                "vnd.android.cursor.dir/vnd.devfest12.track";
         public static final String CONTENT_ITEM_TYPE =
-                "vnd.android.cursor.item/vnd.iosched.track";
+                "vnd.android.cursor.item/vnd.devfest12.track";
 
         /** "All tracks" ID. */
         public static final String ALL_TRACK_ID = "all";
@@ -421,9 +421,9 @@ public class ScheduleContract {
                 CONTENT_URI.buildUpon().appendPath(PATH_STARRED).build();
 
         public static final String CONTENT_TYPE =
-                "vnd.android.cursor.dir/vnd.iosched.session";
+                "vnd.android.cursor.dir/vnd.devfest12.session";
         public static final String CONTENT_ITEM_TYPE =
-                "vnd.android.cursor.item/vnd.iosched.session";
+                "vnd.android.cursor.item/vnd.devfest12.session";
 
         public static final String BLOCK_ID = "block_id";
         public static final String ROOM_ID = "room_id";
@@ -563,9 +563,9 @@ public class ScheduleContract {
                 BASE_CONTENT_URI.buildUpon().appendPath(PATH_VENDORS).build();
 
         public static final String CONTENT_TYPE =
-                "vnd.android.cursor.dir/vnd.iosched.vendor";
+                "vnd.android.cursor.dir/vnd.devfest12.vendor";
         public static final String CONTENT_ITEM_TYPE =
-                "vnd.android.cursor.item/vnd.iosched.vendor";
+                "vnd.android.cursor.item/vnd.devfest12.vendor";
 
         /** {@link Tracks#TRACK_ID} that this vendor belongs to. */
         public static final String TRACK_ID = "track_id";
