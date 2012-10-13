@@ -15,7 +15,7 @@
   -->
 <resources>
     <!-- UI elements -->
-    <dimen name="whats_on_height">64dp</dimen>
+    <dimen name="whats_on_height">0dp</dimen>
     <dimen name="whats_on_item_padding">10dp</dimen>
     <dimen name="whats_on_button_right_padding">20dp</dimen>
     <dimen name="tab_height">48dp</dimen>
