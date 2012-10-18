@@ -92,16 +92,6 @@
    "speaker_id": "s/gdfl2012/0009"
   },
   {
-   "bio": "", 
-   "first_name": "",
-   "last_name": "",
-   "display_name": "",
-   "plusone_url": "",
-   "thumbnail_url": "",
-   "user_id": "u/gdfl2012/0010",
-   "speaker_id": "s/gdfl2012/0010"
-  },
-  {
    "bio": "Emprendedor. Consultor TI. Trainer. Agile Project Manager. Certified Scrum Master. Certified Scrum Developer. Certified Scrum Product Owner.Más de 3 años de experiencia gestionando, liderado, organizado , formando equipos para el desarrollo de productos y servicios digitales.", 
    "first_name": "Freddy",
    "last_name": "Cahuas",
@@ -109,7 +99,7 @@
    "plusone_url": "https://plus.google.com/u/0/106083585529342994260/posts",
    "thumbnail_url": "",
    "user_id": "u/gdfl2012/0011",
-   "speaker_id": "s/gdfl2012/0011"
+   "speaker_id": "s/gdfl2012/0010"
   },
   {
    "bio": "Estudiante de ingeniería de Computación y Sistemas de la Universidad de San Martín de Porres.Es investigador y desarrollador en Android y actualmente labora en el área de investigación y nuevas tecnologías de la USMP Virtual.Ha participado en diferentes eventos tales como el Google IO Extended Lima 2012, ADTG Open Lima, entre otros.", 
@@ -119,7 +109,7 @@
    "plusone_url": "https://plus.google.com/u/0/107663907895846889864/posts",
    "thumbnail_url": "",
    "user_id": "u/gdfl2012/0012",
-   "speaker_id": "s/gdfl2012/0012"
+   "speaker_id": "s/gdfl2012/0011"
   },
   {
    "bio": "Ing. de Sistemas de la Universidad San Luis Gonzaga de Ica y actualmente desarrolla aplicaciones web en python y aplicaciones mobiles en android. Está experimentando con diversas tecnologias Google y sus APIs. Ha participado como ponente en diversos eventos, tales como el Google I/O Extended Lima, ADTG Open Lima, entre otros.", 
@@ -129,17 +119,7 @@
    "plusone_url": "https://plus.google.com/u/0/109289329486184267641/posts",
    "thumbnail_url": "",
    "user_id": "u/gdfl2012/0013",
-   "speaker_id": "s/gdfl2012/0013"
-  },
-  {
-   "bio": "", 
-   "first_name": "",
-   "last_name": "",
-   "display_name": "",
-   "plusone_url": "",
-   "thumbnail_url": "",
-   "user_id": "u/gdfl2012/0014",
-   "speaker_id": "s/gdfl2012/0014"
+   "speaker_id": "s/gdfl2012/0012"
   },
   {
    "bio": "", 
@@ -149,7 +129,7 @@
    "plusone_url": "http://www.google.com/url?q=http%3A%2F%2Fjota.pe%2F%2B&sa=D&sntz=1&usg=AFQjCNExyMCiaRB-ZkzOM_siBXkMzUxfmw",
    "thumbnail_url": "",
    "user_id": "u/gdfl2012/0015",
-   "speaker_id": "s/gdfl2012/0015"
+   "speaker_id": "s/gdfl2012/0013"
   },
   {
    "bio": "Bachiller en Ingeniería de Sistemas de la Universidad Tecnológica del Perú, con un diplomado internacional de desarrollo de soluciones utilizando el Cloud de Google. Actualmente es jefe del área de Investigación y Nuevas Tecnologías de la USMP Virtual. Es uno de los organizadores del  GDG Lima  , ADTG Perú, y ha participado en el Google devfest 2010 Argentina y  America Latin GDG Summit 2012  - México.", 
@@ -159,7 +139,7 @@
    "plusone_url": "https://plus.google.com/u/0/112349624378351893742/posts",
    "thumbnail_url": "",
    "user_id": "u/gdfl2012/0016",
-   "speaker_id": "s/gdfl2012/0016"
+   "speaker_id": "s/gdfl2012/0014"
   },
   {
    "bio": "Ing. de sistemas e informática de la UNMSM, actualmente desarrollando software interactivo utilizando tecnologías web. En los ultimos años ha trabajado en desarrollo utilizando tecnologias web de google como Maps API, HTML5 y Drive API.", 
@@ -169,7 +149,7 @@
    "plusone_url": "https://plus.google.com/115064013961622621430/posts",
    "thumbnail_url": "",
    "user_id": "u/gdfl2012/0017",
-   "speaker_id": "s/gdfl2012/0017"
+   "speaker_id": "s/gdfl2012/0015"
   },
   {
    "bio": "Estudiante de ingeniería de Sistemas de la Universidad Tecnológica del Perú. Ha participado de los eventos Google I/O Extended Perú 2012 y del ADTG Open Lima.  Forma parte de la organización del GDG Lima Girls y también de los miembros promotores de tecnología Google en Perú ", 
@@ -179,7 +159,7 @@
    "plusone_url": "https://plus.google.com/u/0/103821385965862871496/posts",
    "thumbnail_url": "",
    "user_id": "u/gdfl2012/0018",
-   "speaker_id": "s/gdfl2012/0018"
+   "speaker_id": "s/gdfl2012/0016"
   },
   {
    "bio": "Bachiller en Ingeniería de Sistemas de la Universidad Tecnológica del Perú. Actualmente se encuentra investigando tecnologías Google y sus diversas API. Incursionando en el desarrollo de Android y HTML 5. Ha participado en Google I/O Extended Perú 2012 y del ADTG Open Lima.", 
@@ -189,7 +169,7 @@
    "plusone_url": "https://plus.google.com/u/0/101711193087760651471/posts",
    "thumbnail_url": "",
    "user_id": "u/gdfl2012/0019",
-   "speaker_id": "s/gdfl2012/0019"
+   "speaker_id": "s/gdfl2012/0017"
   },
   {
    "bio": "Estudiante de Administración con especialización en Marketing de la Universidad San Ignacio de Loyola. Ha participado de los eventos Google I/O Extended Perú 2012. Forma parte de la organización del GDG Lima Girls.", 
@@ -199,7 +179,7 @@
    "plusone_url": "https://plus.google.com/u/0/115274176942422376384/posts",
    "thumbnail_url": "",
    "user_id": "u/gdfl2012/0020",
-   "speaker_id": "s/gdfl2012/0020"
+   "speaker_id": "s/gdfl2012/0018"
   }
  ],
  "etag": "\"yCLeREs2Qi9VfUZLGcCchLUQ8Ys/W6k8nbDP-T9StSHXQg5D9u2ieE8\""
