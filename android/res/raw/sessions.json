@@ -43,7 +43,7 @@
      "id": "gooio2012/105/",
      "tags": "Mobile",
      "speaker_id": [
-      "s/gdfl2012/0015"
+      "s/gdfl2012/0013"
      ]
     },
     {
@@ -66,7 +66,7 @@
      "id": "gooio2012/224/",
      "tags": "JavaScript,performance,Web Applications",
      "speaker_id": [
-      "gooio2012/224//gooio2012/2061"
+      "s/gdfl2012/0015"
      ]
     },
     {
@@ -86,9 +86,8 @@
      "id": "gooio2012/315/",
      "tags": "Google App Engine,Google",
      "speaker_id": [
-      "gooio2012/315//gooio2012/2240",
-      "gooio2012/315//gooio2012/2289",
-      "gooio2012/315//gooio2012/2290"
+      "s/gdfl2012/0007",
+      "s/gdfl2012/0011"
      ]
     },
     {
