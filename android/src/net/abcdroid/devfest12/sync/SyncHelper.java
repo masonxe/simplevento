@@ -92,7 +92,17 @@ public class SyncHelper {
     public static final int FLAG_SYNC_REMOTE = 0x2;
 
     private static final int LOCAL_VERSION_CURRENT = 19;
-
+	
+	private static final String URL_SRV = "https://gdgdevfestlima.appspot.com/json/";
+	//private static final String URL_SRV = "http://10.10.3.61:8888/json/";
+	private static final String rooms = URL_SRV + "rooms.json";
+	private static final String common_slots = URL_SRV + "common_slots.json";
+	private static final String tracks = URL_SRV + "tracks.json";
+	private static final String speakers = URL_SRV + "speakers.json";
+	private static final String sessions = URL_SRV + "sessions.json";
+	private static final String sandbox =URL_SRV + "sandbox.json";
+	private static final String search_suggest = URL_SRV + "search_suggest.json";
+    
     private Context mContext;
     private String mAuthToken;
     private String mUserAgent;
@@ -133,20 +143,36 @@ public class SyncHelper {
             if (true) {
             	
                 // Load static local data
+//                batch.addAll(new RoomsHandler(mContext).parse(
+//                        JSONHandler.loadResourceJson(mContext, R.raw.rooms)));
+//                batch.addAll(new BlocksHandler(mContext).parse(
+//                        JSONHandler.loadResourceJson(mContext, R.raw.common_slots)));
+//                batch.addAll(new TracksHandler(mContext).parse(
+//                        JSONHandler.loadResourceJson(mContext, R.raw.tracks)));
+//                batch.addAll(new SpeakersHandler(mContext, true).parse(
+//                        JSONHandler.loadResourceJson(mContext, R.raw.speakers)));
+//                batch.addAll(new SessionsHandler(mContext, true, false).parse(
+//                        JSONHandler.loadResourceJson(mContext, R.raw.sessions)));
+//                batch.addAll(new SandboxHandler(mContext, true).parse(
+//                        JSONHandler.loadResourceJson(mContext, R.raw.sandbox)));
+//                batch.addAll(new SearchSuggestHandler(mContext).parse(
+//                        JSONHandler.loadResourceJson(mContext, R.raw.search_suggest)));            	
+            	
                 batch.addAll(new RoomsHandler(mContext).parse(
-                        JSONHandler.loadResourceJson(mContext, R.raw.rooms)));
+                        JSONHandler.loadResourceJsonRemote(mContext, rooms)));
                 batch.addAll(new BlocksHandler(mContext).parse(
-                        JSONHandler.loadResourceJson(mContext, R.raw.common_slots)));
+                        JSONHandler.loadResourceJsonRemote(mContext, common_slots)));
                 batch.addAll(new TracksHandler(mContext).parse(
-                        JSONHandler.loadResourceJson(mContext, R.raw.tracks)));
+                        JSONHandler.loadResourceJsonRemote(mContext, tracks)));
                 batch.addAll(new SpeakersHandler(mContext, true).parse(
-                        JSONHandler.loadResourceJson(mContext, R.raw.speakers)));
+                        JSONHandler.loadResourceJsonRemote(mContext, speakers)));
                 batch.addAll(new SessionsHandler(mContext, true, false).parse(
-                        JSONHandler.loadResourceJson(mContext, R.raw.sessions)));
+                        JSONHandler.loadResourceJsonRemote(mContext, sessions)));
                 batch.addAll(new SandboxHandler(mContext, true).parse(
-                        JSONHandler.loadResourceJson(mContext, R.raw.sandbox)));
+                        JSONHandler.loadResourceJsonRemote(mContext, sandbox)));
                 batch.addAll(new SearchSuggestHandler(mContext).parse(
-                        JSONHandler.loadResourceJson(mContext, R.raw.search_suggest)));
+                        JSONHandler.loadResourceJsonRemote(mContext, search_suggest)));
+                
                 prefs.edit().putInt("local_data_version", LOCAL_VERSION_CURRENT).commit();
                 if (syncResult != null) {
                     ++syncResult.stats.numUpdates;
