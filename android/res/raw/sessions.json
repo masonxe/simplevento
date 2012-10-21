@@ -17,7 +17,7 @@
      "attending": "N",
      "has_streaming": false,
      "end_time": "11:00",
-     "id": "gooio2012/1600/",
+     "id": "",
      "tags": ""
     }
    ],
@@ -40,11 +40,10 @@
      "attending": "N",
      "has_streaming": false,
      "end_time": "12:00",
-     "id": "gooio2012/105/",
+     "id": "",
      "tags": "Mobile",
      "speaker_id": [
-      "gooio2012/105//gooio2012/2179",
-      "gooio2012/105//gooio2012/2180"
+      "s/gdfl2012/0013"
      ]
     },
     {
@@ -64,10 +63,10 @@
      "has_streaming": false,
      "end_time": "12:00",
      "title": "HTML5: De donde venimos y a donde vamos",
-     "id": "gooio2012/224/",
+     "id": "",
      "tags": "JavaScript,performance,Web Applications",
      "speaker_id": [
-      "gooio2012/224//gooio2012/2061"
+      "s/gdfl2012/0015"
      ]
     },
     {
@@ -84,12 +83,11 @@
      "attending": "N",
      "has_streaming": false,
      "end_time": "12:00",
-     "id": "gooio2012/315/",
+     "id": "",
      "tags": "Google App Engine,Google",
      "speaker_id": [
-      "gooio2012/315//gooio2012/2240",
-      "gooio2012/315//gooio2012/2289",
-      "gooio2012/315//gooio2012/2290"
+      "s/gdfl2012/0007",
+      "s/gdfl2012/0011"
      ]
     },
     {
@@ -109,14 +107,12 @@
      "has_streaming": false,
      "end_time": "13:00",
      "title": "Creacion de juegos para Mobile",
-     "id": "gooio2012/404/",
+     "id": "",
      "tags": "Google Wallet,payments",
      "speaker_id": [
-      "gooio2012/404//gooio2012/2364"
+      "s/gdfl2012/0006"
      ]
     },
-   
-  
     {
      "room": "1",
      "end_date": "2012-10-27",
@@ -131,11 +127,10 @@
      "attending": "N",
      "has_streaming": false,
      "end_time": "13:00",
-     "id": "gooio2012/1101/",
+     "id": "",
      "tags": "YouTube",
      "speaker_id": [
-      "gooio2012/1101//gooio2012/2121",
-      "gooio2012/1101//gooio2012/2056"
+      "s/gdfl2012/0009"
      ]
     },
     {
@@ -153,11 +148,11 @@
      "has_streaming": false,
      "end_time": "13:00",
      "livestream_url": "_PmU9mpdnqM",
-     "id": "gooio2012/123/",
+     "id": "",
      "tags": "Mobile,Google Play",
      "speaker_id": [
-      "gooio2012/123//gooio2012/2192",
-      "gooio2012/123//gooio2012/2193"
+      "s/gdfl2012/0016",
+      "s/gdfl2012/0007"
      ]
     },
     {
@@ -177,10 +172,10 @@
      "has_streaming": false,
      "end_time": "15:00",
      "title": "Desarrollo de Juegos y aplicaciones Interactivas con Adobe AIR para Mobile",
-     "id": "gooio2012/208/",
+     "id": "",
      "tags": "Extensions,Content Security Policy,HTTPS,security,performance,Progress!,The Futureâ„¢!",
      "speaker_id": [
-      "gooio2012/208//gooio2012/2052"
+      "s/gdfl2012/0009"
      ]
     },
     {
@@ -202,11 +197,10 @@
      "end_time": "15:00",
      "livestream_url": "Ka2yg68r28E",
      "title": "Dart: Una vista al lenguaje de Google",
-     "id": "gooio2012/212/",
+     "id": "",
      "tags": "Dart,HTML5,offline,performance",
      "speaker_id": [
-      "gooio2012/212//gooio2012/2208",
-      "gooio2012/212//gooio2012/2209"
+      "s/gdfl2012/0006"
      ]
     },
     {
@@ -217,16 +211,16 @@
       "Cloud"
      ],
      "start_time": "14:00",
-     "title": "Mi primera app con Google App Engine y Google Web Toolkit",
-     "abstract": "Veremos como crear nuestro primer proyecto y como deployarlo en la Infraestructura de Google, luego veremos las caracteristicas de la plataforma y similutudes con algunos frameworks conocidos",
+     "title": "¿Por qué las chicas, si somos lindas e inteligentes no participamos de comunidades tecnológicas? -  GDG Lima Girls",
      "start_date": "2012-10-27",
      "attending": "N",
      "has_streaming": false,
      "end_time": "15:00",
-     "id": "gooio2012/306/",
+     "id": "",
      "tags": "Google App Engine,Google Cloud SQL",
      "speaker_id": [
-      "gooio2012/306//gooio2012/2225"
+      "s/gdfl2012/0016",
+      "s/gdfl2012/0007"
      ]
     },
     {
@@ -246,11 +240,10 @@
      "has_streaming": false,
      "end_time": "16:00",
      "title": "NFC(Near Field Communication) en Mobile",
-     "id": "gooio2012/400/",
+     "id": "",
      "tags": "Google Shopping,Google Merchant Center",
      "speaker_id": [
-      "gooio2012/400//gooio2012/2138",
-      "gooio2012/400//gooio2012/2115"
+      "s/gdfl2012/0012"
      ]
     },
     {
@@ -270,11 +263,78 @@
      "has_streaming": false,
      "end_time": "16:00",
      "title": "API de Google Maps",
-     "id": "gooio2012/400/",
+     "id": "",
      "tags": "Google Shopping,Google Merchant Center",
      "speaker_id": [
-      "gooio2012/400//gooio2012/2138",
-      "gooio2012/400//gooio2012/2115"
+      "s/gdfl2012/0014",
+      "s/gdfl2012/0017"
+     ]
+    }, 
+    {
+     "room": "2",
+     "end_date": "2012-10-27",
+     "level": "Intermediate",
+     "track": [
+      "Cloud"
+     ],
+     "start_time": "15:00",
+     "title": "Mi primera app con Google App Engine y Google Web Toolkit",
+     "abstract": "Veremos como crear nuestro primer proyecto y como deployarlo en la Infraestructura de Google, luego veremos las caracteristicas de la plataforma y similutudes con algunos frameworks conocidos",
+     "start_date": "2012-10-27",
+     "attending": "N",
+     "has_streaming": false,
+     "end_time": "16:00",
+     "id": "",
+     "tags": "Google App Engine,Google Cloud SQL",
+     "speaker_id": [
+      "s/gdfl2012/0005"
+     ]
+    },
+    {
+     "room": "0",
+     "end_date": "2012-10-27",
+     "level": "Intermediate",
+     "track": [
+      "Commerce"
+     ],
+     "start_time": "16:00",
+     "prereq": [
+      "Merchants using Content API"
+     ],
+     "abstract": "API Google TV con Android",
+     "start_date": "2012-10-27",
+     "attending": "N",
+     "has_streaming": false,
+     "end_time": "17:00",
+     "title": "API Google TV con Android",
+     "id": "",
+     "tags": "Google Shopping,Google Merchant Center",
+     "speaker_id": [
+      "s/gdfl2012/0006",
+      "s/gdfl2012/0014"
+     ]
+    },
+    {
+     "room": "1",
+     "end_date": "2012-10-27",
+     "level": "Intermediate",
+     "track": [
+      "Commerce"
+     ],
+     "start_time": "16:00",
+     "prereq": [
+      "Merchants using Content API"
+     ],
+     "abstract": "Youtube API",
+     "start_date": "2012-10-27",
+     "attending": "N",
+     "has_streaming": false,
+     "end_time": "17:00",
+     "title": "Youtube API",
+     "id": "",
+     "tags": "Google Shopping,Google Merchant Center",
+     "speaker_id": [
+      "s/gdfl2012/0010"
      ]
     }, 
     {
@@ -284,7 +344,7 @@
      "track": [
       "Commerce"
      ],
-     "start_time": "15:00",
+     "start_time": "16:00",
      "prereq": [
       "Merchants using Content API"
      ],
@@ -292,13 +352,12 @@
      "start_date": "2012-10-27",
      "attending": "N",
      "has_streaming": false,
-     "end_time": "16:00",
+     "end_time": "17:00",
      "title": "Google Cloud Endpoints",
-     "id": "gooio2012/400/",
+     "id": "",
      "tags": "Google Shopping,Google Merchant Center",
      "speaker_id": [
-      "gooio2012/400//gooio2012/2138",
-      "gooio2012/400//gooio2012/2115"
+      "s/gdfl2012/0008"
      ]
     }    
    ],

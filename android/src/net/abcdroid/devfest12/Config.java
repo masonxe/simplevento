@@ -48,6 +48,6 @@ public class Config {
     public static final String SECONDARY_LIVESTREAM_TRACK = "chrome";
 
     // GCM config
-    public static final String GCM_SERVER_URL = "https://yourapp-gcm.appspot.com";
-    public static final String GCM_SENDER_ID = "0000000000000"; // project ID from the APIs console
+    public static final String GCM_SERVER_URL = "https://gdgdevfestlima.appspot.com";
+    public static final String GCM_SENDER_ID = "671028756877";
 }
