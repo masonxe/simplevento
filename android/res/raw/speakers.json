@@ -1,0 +1,186 @@
+{
+ "devsite_speakers": [
+  {
+   "bio": "PhD. Nicolás Bortolotti. Currently Nicholas Bortolotti works as Developer Relations Program Manager at Google. (South Region). Nicolas has developed academic and research communities in several Latin American countries on the development platform of Google, Web and Mobile. Nicolas has played academically as professor of the National Technological University of Argentina (U.T.N.), to the chairs Software Engineering Object Oriented and Mobile Architectures. He has a passion for software development, and programs to grow and support developer communities.",
+   "first_name": "Nicolás",
+   "last_name": "Bortolotti",
+   "display_name": "Nicolás Bortolotti",
+   "plusone_url": "https://plus.google.com/u/0/118390709637393195482/posts",
+   "thumbnail_url": "",
+   "user_id": "u/gdfl2012/0001",
+   "speaker_id": "s/gdfl2012/0001"
+  },
+  {
+   "bio": "Neto is a Developer Advocate at Google, based in Sao Paulo/Brazil, with almost 10 years of experience in the industry and 6 specific with mobile and social networks development. His focus areas are Android, Cloud and OpenSocial.", 
+   "first_name": "Antonio",
+   "last_name": "Marín Neto",
+   "display_name": "Antonio Marín Neto",
+   "plusone_url": "https://plus.google.com/u/0/107801666511812825240/posts",
+   "thumbnail_url": "",
+   "user_id": "u/gdfl2012/0002",
+   "speaker_id": "s/gdfl2012/0002"
+  },
+  {
+   "bio": "Ingeniero de Computación y Sistemas, Magister en Administración con mención en Gerencia Estratégica de Organización y Doctor en Educación por la Universidad de San Martín de Porres USMP. Ha obtenido el título de Especialista y el Diploma de Estudios Avanzado DEA en Integración de las Tecnologías de la Información en las Organizaciones ITIO por la Universidad Politécnica de Valencia UPV, España. Actualmente, es doctorando del Programa ITIO de la UPV.", 
+   "first_name": "Juan José",
+   "last_name": "Flores Cueto",
+   "display_name": "Dr. Juan José Flores Cueto",
+   "plusone_url": "https://plus.google.com/u/0/117812579958444227486/posts",
+   "thumbnail_url": "",
+   "user_id": "u/gdfl2012/0003",
+   "speaker_id": "s/gdfl2012/0003"
+  },
+  {
+   "bio": "12 años de experiencia lanzando empresas de tecnologia y telecom en 9 paises de la region. 
+   CEO de CloudWare 360, partner de Google Enterprise para Peru y Ecuador con planes de apertura de 3 paises adicionales en el 2013.CW360 esta dedicado a la implementacion y desarrollo de soluciones sobre Google Apps y App Engine.", 
+   "first_name": "Saul",
+   "last_name": "Chrem",
+   "display_name": "Saul Chrem",
+   "plusone_url": "https://plus.google.com/u/0/101162884202641422927/posts",
+   "thumbnail_url": "",
+   "user_id": "u/gdfl2012/0004",
+   "speaker_id": "s/gdfl2012/0004"
+  },
+  {
+   "bio": "Meison es Bachiller de Ingeniería de Sistemas de la Unmsm,  durante este último año ha trabajado como desarrollador en proyectos multicanal con Android y Google App Engine. Con algunos años de experiencia en el desarrollo de Aplicaciones Web con Java, interesado en acumular experiencia en el uso de la plataforma cloud de Google", 
+   "first_name": "Armando",
+   "last_name": "Meison",
+   "display_name": "Armando Meison",
+   "plusone_url": "https://plus.google.com/u/0/108828677217868107649/posts",
+   "thumbnail_url": "",
+   "user_id": "u/gdfl2012/0005",
+   "speaker_id": "s/gdfl2012/0005"
+  },
+  {
+   "bio": "Ingeniero de Sistemas. Desarrollador Web y de Videojuegos. Analista, apasionado por el Ethical Hacking e investigador de nuevas tecnologías.Actualmente laborando como desarrollador de videojuegos y web. Miembro del GDG Lima y participante en IGDA Perú.Ha participado en el Google IO 2012 - San Francisco.", 
+   "first_name": "Carlos",
+   "last_name": "Piñán",
+   "display_name": "Carlos Piñán",
+   "plusone_url": "",
+   "thumbnail_url": "https://plus.google.com/u/0/114879587144279379339/posts",
+   "user_id": "u/gdfl2012/0006",
+   "speaker_id": "s/gdfl2012/0006"
+  },
+  {
+   "bio": "Charles es web developer, viene desarrollando en  tecnologías java y python.El último año ha participado en proyectos utilizando las plataformas apps script y app engine, experimentando así con apis y servicios de Google. Actualmente, participa en diferentes proyectos para la web.", 
+   "first_name": "Charles",
+   "last_name": "Córdova",
+   "display_name": "Charles Córdova",
+   "plusone_url": "http://www.google.com/url?q=http%3A%2F%2Fgplus.to%2Fchacovi&sa=D&sntz=1&usg=AFQjCNG5RMF-IC5bhbKJl72_XtO9XIYpjw",
+   "thumbnail_url": "",
+   "user_id": "u/gdfl2012/0007",
+   "speaker_id": "s/gdfl2012/0007"
+  },
+  {
+   "bio": "Consultor  & Desarrollador Java / Android / AppEngine, investigador apasionado  de nuevas tecnologías. Cuenta con más de 6 años desarrollando software en entidades bancarias,manufactura, servicios, y actualmente es sr software engineer en una Financiera de EEUU. Organizador de GDG Lima. Ha participado como ponente en diversos eventos, tales como el Google I/O Extended Lima, ADTG Open Lima, entre otros.", 
+   "first_name": "David",
+   "last_name": "Motta",
+   "display_name": "David Motta",
+   "plusone_url": "https://plus.google.com/u/0/100246763730950354673",
+   "thumbnail_url": "",
+   "user_id": "u/gdfl2012/0008",
+   "speaker_id": "s/gdfl2012/0008"
+  },
+  {
+   "bio": "Empresario / Investigador / Instructor / Desarrollador Web / Mobile / Interactivo y de VideoJuegos con mas de 7 años de experiencia. Organizador GDG LIma, Director de Asuntos con la Comunidad del  IGDA Perú y miembro del ADTG Lima", 
+   "first_name": "Eduardo",
+   "last_name": "Medina",
+   "display_name": "Eduardo Medina",
+   "plusone_url": "https://plus.google.com/u/0/103616372939535225844/posts",
+   "thumbnail_url": "",
+   "user_id": "u/gdfl2012/0009",
+   "speaker_id": "s/gdfl2012/0009"
+  },
+  {
+   "bio": "Emprendedor. Consultor TI. Trainer. Agile Project Manager. Certified Scrum Master. Certified Scrum Developer. Certified Scrum Product Owner.Más de 3 años de experiencia gestionando, liderado, organizado , formando equipos para el desarrollo de productos y servicios digitales.", 
+   "first_name": "Freddy",
+   "last_name": "Cahuas",
+   "display_name": "Freddy Cahuas",
+   "plusone_url": "https://plus.google.com/u/0/106083585529342994260/posts",
+   "thumbnail_url": "",
+   "user_id": "u/gdfl2012/0011",
+   "speaker_id": "s/gdfl2012/0010"
+  },
+  {
+   "bio": "Estudiante de ingeniería de Computación y Sistemas de la Universidad de San Martín de Porres.Es investigador y desarrollador en Android y actualmente labora en el área de investigación y nuevas tecnologías de la USMP Virtual.Ha participado en diferentes eventos tales como el Google IO Extended Lima 2012, ADTG Open Lima, entre otros.", 
+   "first_name": "Geferson",
+   "last_name": "Pillaca",
+   "display_name": "Geferson Pillaca",
+   "plusone_url": "https://plus.google.com/u/0/107663907895846889864/posts",
+   "thumbnail_url": "",
+   "user_id": "u/gdfl2012/0012",
+   "speaker_id": "s/gdfl2012/0011"
+  },
+  {
+   "bio": "Ing. de Sistemas de la Universidad San Luis Gonzaga de Ica y actualmente desarrolla aplicaciones web en python y aplicaciones mobiles en android. Está experimentando con diversas tecnologias Google y sus APIs. Ha participado como ponente en diversos eventos, tales como el Google I/O Extended Lima, ADTG Open Lima, entre otros.", 
+   "first_name": "Hansy",
+   "last_name": "Schmitt",
+   "display_name": "Hansy Schmitt",
+   "plusone_url": "https://plus.google.com/u/0/109289329486184267641/posts",
+   "thumbnail_url": "",
+   "user_id": "u/gdfl2012/0013",
+   "speaker_id": "s/gdfl2012/0012"
+  },
+  {
+   "bio": "", 
+   "first_name": "Jhoon",
+   "last_name": "Saravia",
+   "display_name": "Jhoon Saravia",
+   "plusone_url": "http://www.google.com/url?q=http%3A%2F%2Fjota.pe%2F%2B&sa=D&sntz=1&usg=AFQjCNExyMCiaRB-ZkzOM_siBXkMzUxfmw",
+   "thumbnail_url": "",
+   "user_id": "u/gdfl2012/0015",
+   "speaker_id": "s/gdfl2012/0013"
+  },
+  {
+   "bio": "Bachiller en Ingeniería de Sistemas de la Universidad Tecnológica del Perú, con un diplomado internacional de desarrollo de soluciones utilizando el Cloud de Google. Actualmente es jefe del área de Investigación y Nuevas Tecnologías de la USMP Virtual. Es uno de los organizadores del  GDG Lima  , ADTG Perú, y ha participado en el Google devfest 2010 Argentina y  America Latin GDG Summit 2012  - México.", 
+   "first_name": "Juan José",
+   "last_name": "Rodríguez",
+   "display_name": "Juan José Rodríguez",
+   "plusone_url": "https://plus.google.com/u/0/112349624378351893742/posts",
+   "thumbnail_url": "",
+   "user_id": "u/gdfl2012/0016",
+   "speaker_id": "s/gdfl2012/0014"
+  },
+  {
+   "bio": "Ing. de sistemas e informática de la UNMSM, actualmente desarrollando software interactivo utilizando tecnologías web. En los ultimos años ha trabajado en desarrollo utilizando tecnologias web de google como Maps API, HTML5 y Drive API.", 
+   "first_name": "Manuel",
+   "last_name": "Manrique",
+   "display_name": "Manuel Manrique",
+   "plusone_url": "https://plus.google.com/115064013961622621430/posts",
+   "thumbnail_url": "",
+   "user_id": "u/gdfl2012/0017",
+   "speaker_id": "s/gdfl2012/0015"
+  },
+  {
+   "bio": "Estudiante de ingeniería de Sistemas de la Universidad Tecnológica del Perú. Ha participado de los eventos Google I/O Extended Perú 2012 y del ADTG Open Lima.  Forma parte de la organización del GDG Lima Girls y también de los miembros promotores de tecnología Google en Perú ", 
+   "first_name": "Roxana",
+   "last_name": "Panaqué",
+   "display_name": "Roxana Panaqué",
+   "plusone_url": "https://plus.google.com/u/0/103821385965862871496/posts",
+   "thumbnail_url": "",
+   "user_id": "u/gdfl2012/0018",
+   "speaker_id": "s/gdfl2012/0016"
+  },
+  {
+   "bio": "Bachiller en Ingeniería de Sistemas de la Universidad Tecnológica del Perú. Actualmente se encuentra investigando tecnologías Google y sus diversas API. Incursionando en el desarrollo de Android y HTML 5. Ha participado en Google I/O Extended Perú 2012 y del ADTG Open Lima.", 
+   "first_name": "Alvaro",
+   "last_name": "Gonzales Lluncor",
+   "display_name": "Alvaro Gonzales Lluncor",
+   "plusone_url": "https://plus.google.com/u/0/101711193087760651471/posts",
+   "thumbnail_url": "",
+   "user_id": "u/gdfl2012/0019",
+   "speaker_id": "s/gdfl2012/0017"
+  },
+  {
+   "bio": "Estudiante de Administración con especialización en Marketing de la Universidad San Ignacio de Loyola. Ha participado de los eventos Google I/O Extended Perú 2012. Forma parte de la organización del GDG Lima Girls.", 
+   "first_name": "María José",
+   "last_name": "Torres Martijena",
+   "display_name": "María José Torres Martijena",
+   "plusone_url": "https://plus.google.com/u/0/115274176942422376384/posts",
+   "thumbnail_url": "",
+   "user_id": "u/gdfl2012/0020",
+   "speaker_id": "s/gdfl2012/0018"
+  }
+ ],
+ "etag": "\"yCLeREs2Qi9VfUZLGcCchLUQ8Ys/W6k8nbDP-T9StSHXQg5D9u2ieE8\""
+}
