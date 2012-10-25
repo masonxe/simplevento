@@ -334,7 +334,94 @@
     }
    ],
    "event_type": "session"
+  },
+  {
+   "event_timeslots": "[{'date': '2012-10-28', 'slot1': (u'09:30', u'09:50')}]",
+   "events": [
+    {
+     "room": "0",
+     "end_date": "2012-10-28",
+     "level": "",
+     "track": [
+      "Mobile"
+     ],
+     "start_time": "09:30",
+     "title": "Introducción al desarrollo multiplataforma con PhoneGap y jQueryMobile",
+     "abstract": "Workshop:   Introducción al desarrollo multiplataforma con PhoneGap y jQueryMobile",
+     "start_date": "2012-10-28",
+     "attending": "N",
+     "has_streaming": false,
+     "end_time": "09:50",
+     "id": "devfestlima/1016/",
+     "tags": "Mobile",
+     "speaker_id": [
+      "devfestlima2012/121//devfestlima2012/2021"
+     ]
+    },
+    {
+     "room": "1",
+     "end_date": "2012-10-28",
+     "level": "",
+     "track": [
+      "Web"
+     ],
+     "start_time": "09:30",
+     "title": "Workshop: File System API e Indexed DB con HTML5",
+     "abstract": "File System API e Indexed DB con HTML5 con +Cristian Rinaldi, ADTG UTN Santa Fé Argentina",
+     "start_date": "2012-10-28",
+     "attending": "N",
+     "has_streaming": false,
+     "end_time": "09:50",
+     "id": "devfestlima/1017/",
+     "tags": "HTML5",
+     "speaker_id": [
+      "devfestlima2012/118//devfestlima2012/2018"
+     ]
+    },
+    {
+     "room": "2",
+     "end_date": "2012-10-28",
+     "level": "",
+     "track": [
+      "Cloud"
+     ],
+     "start_time": "09:30",
+     "title": "Workshop: Mi primer programa en Dart, pero no el ultimo",
+     "abstract": "Mi primer programa en Dart, pero no el ultimo, con +Pablo Moyano,GDG Buenos Aires, Argentina",
+     "start_date": "2012-10-28",
+     "attending": "N",
+     "has_streaming": false,
+     "end_time": "09:50",
+     "id": "devfestlima/1018/",
+     "tags": "Cloud",
+     "speaker_id": [
+      "devfestlima2012/120//devfestlima2012/2020"
+     ]
+    },
+    {
+     "room": "3",
+     "end_date": "2012-10-28",
+     "level": "",
+     "track": [
+      "Cloud"
+     ],
+     "start_time": "09:30",
+     "title": "Workshop: Prediction API",
+     "abstract": "Prediction API, con +Matías Molinas, GDG Santa Fe, Argentina",
+     "start_date": "2012-10-28",
+     "attending": "N",
+     "has_streaming": false,
+     "end_time": "09:50",
+     "id": "devfestlima/1019/",
+     "tags": "Cloud",
+     "speaker_id": [
+      "devfestlima2012/119//devfestlima2012/2019"
+     ]
+    }
+    ],
+   "event_type": "session"
   }
+  
  ],
  "error": "No auth token in request",
  "etag": "\"yCLeREs2Qi9VfUZLGcCchLUQ8Ys/W6k8nbDP-T9StSHXQg5D9u2ieE8\""
