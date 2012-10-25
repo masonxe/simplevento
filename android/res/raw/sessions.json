@@ -35,7 +35,7 @@
      ],
      "start_time": "11:00",
      "title": "Mobile App Clinic.",
-     "abstract": "Revisaremos juntos los principios basicos de las aplicaciones Mobile.",
+     "abstract": "Revisando los principios básicos de las aplicaciones Android..",
      "start_date": "2012-10-27",
      "attending": "N",
      "has_streaming": false,
@@ -75,7 +75,7 @@
       "Cloud"
      ],
      "start_time": "11:00",
-     "title": "Automatización de procesos con Apps Script",
+     "title": "Apps Script: Automatización de procesos en la nube de Google",
      "abstract": "Veremos como usar la plataforma Apps Script para automatizar procesos en la nube de Google.",
      "start_date": "2012-10-27",
      "attending": "N",
@@ -96,14 +96,14 @@
       "Mobile"
      ],
      "start_time": "12:00",
-     "abstract": "Pasos para crear un juego para Mobile.",
+     "abstract": "Pasos para crear juegos para Android.",
      "start_date": "2012-10-27",
      "attending": "N",
      "has_streaming": false,
      "end_time": "13:00",
-     "title": "Creacion de juegos para Mobile",
+     "title": "Creacion de juegos para Android.",
      "id": "devfestlima/1004/",
-     "tags": "Google Wallet,payments",
+     "tags": "Android,Juegos",
      "speaker_id": [
       "devfestlima2012/106//devfestlima2012/2006"
      ]
@@ -123,7 +123,7 @@
      "has_streaming": false,
      "end_time": "13:00",
      "id": "devfestlima/1005/",
-     "tags": "YouTube",
+     "tags": "HTML5",
      "speaker_id": [
       "devfestlima2012/108//devfestlima2012/2008"
      ]
@@ -163,7 +163,7 @@
      "end_time": "15:00",
      "title": "Desarrollo de Juegos y aplicaciones Interactivas con Adobe AIR para Mobile",
      "id": "devfestlima/1007/",
-     "tags": "Extensions,Content Security Policy,HTTPS,security,performance,Progress!,The Futureâ„¢!",
+     "tags": "Juegos, Android, Adobe AIR",
      "speaker_id": [
       "devfestlima2012/108//devfestlima2012/2008"
      ]
@@ -184,7 +184,7 @@
      "livestream_url": "Ka2yg68r28E",
      "title": "Dart: Una vista al lenguaje de Google",
      "id": "devfestlima/1008/",
-     "tags": "Dart,HTML5,offline,performance",
+     "tags": "Dart,HTML5",
      "speaker_id": [
       "devfestlima2012/106//devfestlima2012/2006"
      ]
@@ -204,7 +204,7 @@
      "has_streaming": false,
      "end_time": "15:00",
      "id": "devfestlima/1009/",
-     "tags": "Google App Engine,Google Cloud SQL",
+     "tags": "Google, Chicas",
      "speaker_id": [
       "devfestlima2012/115//devfestlima2012/2015","devfestlima2012/117//devfestlima2012/2017"
      ]
@@ -217,14 +217,14 @@
       "Mobile"
      ],
      "start_time": "15:00",
-     "abstract": " Usando NFC(Near Field Communication) en Mobile.",
+     "abstract": " Usando NFC(Near Field Communication) en Android.",
      "start_date": "2012-10-27",
      "attending": "N",
      "has_streaming": false,
      "end_time": "16:00",
-     "title": "NFC(Near Field Communication) en Mobile",
+     "title": "NFC(Near Field Communication) en Android",
      "id": "devfestlima/1010/",
-     "tags": "Android",
+     "tags": "Android, NFC",
      "speaker_id": [
       "devfestlima2012/111//devfestlima2012/2011"
      ]
@@ -286,7 +286,7 @@
      "end_time": "17:00",
      "title": "API Google TV con Android",
      "id": "devfestlima/1013/",
-     "tags": "Android",
+     "tags": "Android, Google TV",
      "speaker_id": [
       "devfestlima2012/106//devfestlima2012/2006",
       "devfestlima2012/113//devfestlima2012/2013"
@@ -305,7 +305,7 @@
      "attending": "N",
      "has_streaming": false,
      "end_time": "17:00",
-     "title": "Comunicacion Android con AppEngine",
+     "title": "Construyendo una App Android sobre la Nube App Engine",
      "id": "devfestlima/1014/",
      "tags": "Google Cloud,Android, AppEngine",
      "speaker_id": [
