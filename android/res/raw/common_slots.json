@@ -63,13 +63,13 @@
       "date": "2012-10-28",
       "slot": [
         {
-          "start": "7:30",
-          "end": "8:30",
+          "start": "07:30",
+          "end": "08:30",
           "title": "Recepción y Bienvenida de asistentes.",
           "meta": "Auditorio"
         },
         {
-          "start": "9:50",
+          "start": "09:50",
           "end": "10:10",
           "title": "Coffee Break",
           "meta": "Auditorio"
