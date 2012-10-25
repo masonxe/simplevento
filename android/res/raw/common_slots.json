@@ -4,34 +4,46 @@
       "date": "2012-10-27",
       "slot": [
         {
-          "start": "08:30",
-          "end": "09:15",
-          "title": "Recepcion de Asistentes.",
+          "start": "08:00",
+          "end": "08:45",
+          "title": "Recepción de asistentes",
           "meta": "Auditorio"
         },
         {
-          "start": "09:15",
-          "end": "09:45",
-          "title": "Conferencia GDG Lima y Google DevRel",
+          "start": "09:00",
+          "end": "09:30",
+          "title": "Inauguración",
           "meta": "Auditorio"
         },
          {
-          "start": "09:45",
+          "start": "09:30",
           "end": "10:00",
-          "title": "Integracion con otras comunidades",
+          "title": "Introduction, conferencia GDG Lima and Google DevRel",
           "meta": "Auditorio"
         },
         
         {
+          "start": "10:00",
+          "end": "10:20",
+          "title": "Sincronización con referentes regionales",
+          "meta": "Auditorio"
+        },
+        {
+          "start": "10:20",
+          "end": "11:00",
+          "title": "Keynote",
+          "meta": "Auditorio"
+        },
+        {
           "start": "13:00",
           "end": "14:00",
-          "title": "Almuerzo Networking.",
+          "title": "Refrigerio",
           "meta": "Auditorio"
         },
         {
           "start": "17:00",
           "end": "18:00",
-          "title": "Expositor de Google",
+          "title": "Conferencia magistral, +Nicolás Bortolotti Program Manager At Google",
           "meta": "Auditorio"
         },
         {
@@ -42,8 +54,8 @@
         },
         {
           "start": "18:30",
-          "end": "18:40",
-          "title": "Agradecimientos y cierre del evento.",
+          "end": "19:00",
+          "title": "Cierre.",
           "meta": "Auditorio"
         }
       ]
@@ -52,39 +64,63 @@
       "date": "2012-10-28",
       "slot": [
         {
-          "start": "17:30",
-          "end": "18:00",
-          "title": "Recepcion y Bienvenida",
+          "start": "7:30",
+          "end": "8:30",
+          "title": "Recepción y Bienvenida de asistentes.",
           "meta": "Auditorio"
         },
         {
-          "start": "18:15",
-          "end": "18:30",
-          "title": "Google Intro",
+          "start": "9:50",
+          "end": "10:10",
+          "title": "Coffee Break",
           "meta": "Auditorio"
         },
         {
-          "start": "18:30",
-          "end": "19:15",
-          "title": "Panel de discusion sobre emprendimiento",
+          "start": "10:15",
+          "end": "11:10",
+          "title": "Conferencia magistral: El ecosistema de emprendimiento en Brasil, +Antonio Neto Marín Google Advocate At Google",
           "meta": "Auditorio"
         },
          {
-          "start": "19:15",
-          "end": "19:30",
-          "title": "Presentacion del Ecosistema Actual : Casos de Exito",
+          "start": "11:10",
+          "end": "12:00",
+          "title": "Panel de discusión con expertos: Cómo Google aportó en sus modelos de negocio.",
           "meta": "Auditorio"
         },
         {
-          "start": "19:30",
-          "end": "19:45",
-          "title": "Herramientas para emprendedores",
+          "start": "12:00",
+          "end": "12:30",
+          "title": "Innovation @Google, +Nicolás Bortolotti(Program Manager At Google).",
           "meta": "Auditorio"
         },
          {
-          "start": "19:45",
-          "end": "20:00",
-          "title": "Cierre del evento",
+          "start": "12:30",
+          "end": "14:00",
+          "title": "Taller de Business Model Canvas",
+          "meta": "Auditorio"
+        },
+         {
+          "start": "14:00",
+          "end": "15:00",
+          "title": "Coffee Break",
+          "meta": "Auditorio"
+        },
+         {
+          "start": "15:00",
+          "end": "16:00",
+          "title": "Sustentación de ideas",
+          "meta": "Auditorio"
+        },
+         {
+          "start": "16:00",
+          "end": "16:30",
+          "title": "Cierre conclusiones",
+          "meta": "Auditorio"
+        },
+         {
+          "start": "16:30",
+          "end": "17:00",
+          "title": "Sorpresas",
           "meta": "Auditorio"
         }
       ]
