@@ -18,7 +18,10 @@
      "has_streaming": false,
      "end_time": "11:00",
      "id": "devfestlima/1000/",
-     "tags": ""
+     "tags": "",
+     "speaker_id": [
+      "devfestlima2012/112//devfestlima2012/2012"
+     ]
     }
    ],
    "event_type": "keynote"
