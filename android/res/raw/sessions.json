@@ -359,7 +359,7 @@
      "end_date": "2012-10-27",
      "level": "Intermediate",
      "track": [
-      "Web"
+      "Mobile"
      ],
      "start_time": "12:00",  
      "abstract": "Mostrar cómo utilizando una aplicación Android y la tecnología Bluetooth se pueden controlar diversos dispositivos en el hogar como encender luces o prender artefactos y hasta crear animaciones en Processing.",
@@ -399,7 +399,7 @@
      "end_date": "2012-10-27",
      "level": "Intermediate",
      "track": [
-      "Web"
+      "Cloud"
      ],
      "start_time": "15:00",  
      "abstract": "Automatización de control de horas con Apps Script.",
