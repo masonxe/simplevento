@@ -333,6 +333,106 @@
      "speaker_id": [
       "devfestlima2012/109//devfestlima2012/2009"
      ]
+    },
+    {
+     "room": "3",
+     "end_date": "2012-10-27",
+     "level": "Intermediate",
+     "track": [
+      "Web"
+     ],
+     "start_time": "11:00",  
+     "abstract": "Google Maps Colaborativo en Desastres Naturales",
+     "start_date": "2012-10-27",
+     "attending": "N",
+     "has_streaming": false,
+     "end_time": "12:00",
+     "title": "Google Maps Colaborativo en Desastres Naturales",
+     "id": "devfestlima/1020/",
+     "tags": "Maps",
+     "speaker_id": [
+      "devfestlima2012/122//devfestlima2012/2022"
+     ]
+    },
+    {
+     "room": "3",
+     "end_date": "2012-10-27",
+     "level": "Intermediate",
+     "track": [
+      "Web"
+     ],
+     "start_time": "12:00",  
+     "abstract": "Mostrar cómo utilizando una aplicación Android y la tecnología Bluetooth se pueden controlar diversos dispositivos en el hogar como encender luces o prender artefactos y hasta crear animaciones en Processing.",
+     "start_date": "2012-10-27",
+     "attending": "N",
+     "has_streaming": false,
+     "end_time": "13:00",
+     "title": "Android y la computación física",
+     "id": "devfestlima/1021/",
+     "tags": "Android",
+     "speaker_id": [
+      "devfestlima2012/123//devfestlima2012/2023"
+     ]
+    },
+    {
+     "room": "3",
+     "end_date": "2012-10-27",
+     "level": "Intermediate",
+     "track": [
+      "Web"
+     ],
+     "start_time": "14:00",  
+     "abstract": " Usando el Google Chrome como navegador se explicara como desarrollar paso a paso un juego en HTML5. Se mostrara el uso de canvas, javascript, jquery, fisica ( colisiones nivel basico)..",
+     "start_date": "2012-10-27",
+     "attending": "N",
+     "has_streaming": false,
+     "end_time": "15:00",
+     "title": "Codeando un juego con HTML5",
+     "id": "devfestlima/1022/",
+     "tags": "HTML5",
+     "speaker_id": [
+      "devfestlima2012/124//devfestlima2012/2024"
+     ]
+    },
+    {
+     "room": "3",
+     "end_date": "2012-10-27",
+     "level": "Intermediate",
+     "track": [
+      "Web"
+     ],
+     "start_time": "15:00",  
+     "abstract": "Automatización de control de horas con Apps Script.",
+     "start_date": "2012-10-27",
+     "attending": "N",
+     "has_streaming": false,
+     "end_time": "16:00",
+     "title": "Automatización de control de horas con Apps Script.",
+     "id": "devfestlima/1023/",
+     "tags": "AppsScript",
+     "speaker_id": [
+      "devfestlima2012/125//devfestlima2012/2025"
+     ]
+    },
+    {
+     "room": "3",
+     "end_date": "2012-10-27",
+     "level": "Intermediate",
+     "track": [
+      "Web"
+     ],
+     "start_time": "16:00",  
+     "abstract": "Vaadin es un framework basado en GWT para construir aplicaciones web con una riquisima interface de usuario, lo cual hace felices a los usuarios.",
+     "start_date": "2012-10-27",
+     "attending": "N",
+     "has_streaming": false,
+     "end_time": "17:00",
+     "title": "Vaadin un framework web basado en GWT",
+     "id": "devfestlima/1024/",
+     "tags": "GWT",
+     "speaker_id": [
+      "devfestlima2012/126//devfestlima2012/2026"
+     ]
     }
    ],
    "event_type": "session"
